@@ -1,0 +1,4 @@
+baseURL = "https://mdlcs.dev/"
+languageCode = "en-us"
+title = "mdlcs.dev"
+theme = "ananke"
