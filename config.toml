@@ -1,4 +1,46 @@
 baseURL = "https://mdlcs.dev/"
-languageCode = "en-us"
+languageCode = "es-ES"
 title = "mdlcs.dev"
-theme = "ananke"
+theme = "PaperMod"
+paginate = 5
+
+[minify]
+disableXML = true
+minifyOutput = true
+
+[params.homeInfoParams]
+  Title = """¡Hola! Soy Marcos 👨🏻‍💻 
+  
+  {y soy desarrollador de software}"""
+  Content = """
+
+  ☕‏‏‎ ‎ He desarrollado mi carrera principalmente en el ecosistema Java / Spring aunque he tenido que lidiar también con tecnologías web como HTML, CSS, Javascript o Angular.
+  
+  --
+
+  🧰‏‏‎ ‎ La automatización y el CI/CD son otro aspecto importante para mi; por ello me escucharás a menudo hablar de Jenkins o SonarQube o sobre diferentes plataformas como AWS, Azure o GCP.
+
+  --
+
+  🦄 ‎ Me encantan los temas relacionados con arquitectura, buenas prácticas o patrones, así que no dudes en charlar conmigo sobre DDD, arquitectura hexagonal o SOLID.
+  
+  --
+
+  🤯‏‏‎ ‎  Soy un apasionado de la tecnología aparte de ávido lector y profesional del sarcasmo.
+  
+  --
+  
+  👇🏻 ‎ Más información aquí.
+  """
+
+  [[params.socialIcons]]
+  name = "twitter"
+  url = "https://twitter.com/marcosDLCS"
+
+  [[params.socialIcons]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/marcosdlcs/"
+
+  [[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/marcosDLCS"
