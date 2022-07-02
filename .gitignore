@@ -1,8 +1,13 @@
-# Hugo default output directory
+# Generated files by hugo
 /public
-
-.DS_Store
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
 .hugo_build.lock
 
+# OSX
+.DS_Store
+
+# IDE
 .idea
 .vscode
