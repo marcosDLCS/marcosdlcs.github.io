@@ -1,0 +1,17 @@
+= marcosdlcs.github.io
+:toc: auto
+
+== Personal blog
+
+Personal blog project hosted on GitHub and using Hugo. 
+
+The content of the page is in Spanish and all the opinions reflected are my own and independent from those of my employers.
+
+== Hugo basic usage
+
+https://gohugo.io/getting-started/usage/
+
+== Contact
+
+* Twitter: https://twitter.com/marcosDLCS
+* LinkedIn: https://www.linkedin.com/in/marcosdlcs/

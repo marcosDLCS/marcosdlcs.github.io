@@ -1,0 +1,8 @@
+# Hugo default output directory
+/public
+
+.DS_Store
+.hugo_build.lock
+
+.idea
+.vscode

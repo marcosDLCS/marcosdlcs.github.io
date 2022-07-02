@@ -14,11 +14,11 @@ minifyOutput = true
   {y soy desarrollador de software}"""
   Content = """
 
-  ☕‏‏‎ ‎ He desarrollado mi carrera en el ecosistema Java / Spring y he lidiado con tecnologías web como HTML, CSS, JS, TS o Angular.
+  ☕‏‏‎ ‎ He desarrollado mi carrera en el ecosistema JVM / Java / Spring y ahora trabajo con lenguajes como Kotlin y con tecnologías como Postgres, Apache Kafka o Redis.
   
   --
 
-  🧰‏‏‎ ‎ La automatización y el CI/CD me encantan; por ello me escucharás a menudo hablar de Jenkins y Sonar o sobre diferentes plataformas como AWS, Azure o GCP.
+  🧰‏‏‎ ‎ La automatización, el CI/CD y el cloud me encantan; por ello me escucharás a menudo hablar de Gitlab, Jenkins, Sonar o plataformas como AWS o Azure.
 
   --
 
