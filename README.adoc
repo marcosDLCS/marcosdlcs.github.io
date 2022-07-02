@@ -7,9 +7,15 @@ Personal blog project hosted on GitHub and using Hugo.
 
 The content of the page is in Spanish and all the opinions reflected are my own and independent from those of my employers.
 
-== Hugo basic usage
+== Hugo usage
+
+=== Basic
 
 https://gohugo.io/getting-started/usage/
+
+=== Front matter
+
+https://gohugobrasil.netlify.app/content-management/front-matter/
 
 == Contact
 
