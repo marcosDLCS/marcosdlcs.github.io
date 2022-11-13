@@ -38,6 +38,10 @@ minifyOutput = true
   url = "https://twitter.com/marcosDLCS"
 
   [[params.socialIcons]]
+  name = "mastodon"
+  url = "https://mastodon.social/@marcosdlcs"
+
+  [[params.socialIcons]]
   name = "linkedin"
   url = "https://www.linkedin.com/in/marcosdlcs/"
 
