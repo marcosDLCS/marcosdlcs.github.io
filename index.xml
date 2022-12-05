@@ -6,5 +6,26 @@
     <description>Recent content on mdlcs.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language><atom:link href="https://mdlcs.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Club de lectura</title>
+      <link>https://mdlcs.dev/books/</link>
+      <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mdlcs.dev/books/</guid>
+      <description>En esta sección encontrarás una lista reducida de los libros más relevantes que estoy leyendo, los que me gustaría leer en algún futuro o aquellos que ya he acabado.
+Se trata de una selección basada en mis gustos y necesidades, por lo tanto sesgada. No dudes en contactarme por redes si quieres recomendarme alguna lectura o darme tu opinión sobre algun elemento de la lista. Poco a poco intentaré completar la lista con más títulos.</description>
+    </item>
+    
+    <item>
+      <title>Más contenido</title>
+      <link>https://mdlcs.dev/more-content/</link>
+      <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mdlcs.dev/more-content/</guid>
+      <description>📙 TeachTech TeachTech es una iniciativa sin ánimo de lucro en la que varios profesionales del sector nos reunimos y organizamos para enseñar a programar desde cero a personas con pocos o nulos conocimientos en la materia que buscan nuevos retos. Los contenidos del curso están relacionados con el ecosistema web: HTML, CSS y Javascript.
+Puedes echar un vistazo a nuestra web si quieres. En ella en ocasiones escribo alguna entrada que pueda ser útil a nuestros alumnos y alumnas.</description>
+    </item>
+    
+    
   </channel>
 </rss>
