@@ -58,14 +58,14 @@ home = [
 
 [menu]
 [[menu.main]]
-  identifier = 'search'
-  name = 'Buscar'
-  url = '/search'
-[[menu.main]]
   identifier = 'books'
   name = 'Club de lectura'
   url = '/books'
 [[menu.main]]
   identifier = 'more-content'
   name = 'Más contenido'
-  url = '/more-content'   
+  url = '/more-content'
+[[menu.main]]
+  identifier = 'search'
+  name = 'Buscar'
+  url = '/search'

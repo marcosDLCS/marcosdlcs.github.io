@@ -10,4 +10,6 @@ TeachTech es una **iniciativa sin ánimo de lucro** en la que varios profesional
 
 Puedes echar un vistazo a [**nuestra web**](https://www.teacht3ch.com/) si quieres. En ella en ocasiones escribo alguna entrada que pueda ser útil a nuestros alumnos y alumnas. 👇
 
-* [Conoce los distintos caminos del sector IT](https://www.teacht3ch.com/blog/conoce-caminos-sector-it)
+### Posts
+
+* 📝 [Conoce los distintos caminos del sector IT](https://www.teacht3ch.com/blog/conoce-caminos-sector-it)
