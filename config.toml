@@ -2,7 +2,7 @@ baseURL = "https://mdlcs.dev/"
 languageCode = "es-ES"
 title = "mdlcs.dev"
 theme = "PaperMod"
-paginate = 5
+paginate = 10
 
 [minify]
 disableXML = true
@@ -48,3 +48,24 @@ minifyOutput = true
   [[params.socialIcons]]
   name = "github"
   url = "https://github.com/marcosDLCS"
+
+[outputs]
+home = [
+    'HTML',
+    'RSS',
+    'JSON',
+]
+
+[menu]
+[[menu.main]]
+  identifier = 'search'
+  name = 'Buscar'
+  url = '/search'
+[[menu.main]]
+  identifier = 'books'
+  name = 'Club de lectura'
+  url = '/books'
+[[menu.main]]
+  identifier = 'more-content'
+  name = 'Más contenido'
+  url = '/more-content'   
