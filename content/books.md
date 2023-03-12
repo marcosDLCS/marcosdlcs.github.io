@@ -1,12 +1,12 @@
 ---
 title: "Club de lectura"
-lastmod: 2022-12-05
+lastmod: 2023-03-13
 date: 2022-12-05
 ---
 
 En esta sección encontrarás una **lista reducida de los libros más relevantes que estoy leyendo**, los que me gustaría leer en algún futuro o aquellos que ya he acabado.
 
-Se trata de una selección basada en mis gustos y necesidades, por lo tanto sesgada. No dudes en contactarme por redes si quieres recomendarme alguna lectura o darme tu opinión sobre algun elemento de la lista. Poco a poco intentaré completar la lista con más títulos.
+Se trata de una selección basada en mis gustos y necesidades, por lo tanto sesgada. No dudes en contactarme por redes si quieres recomendarme alguna lectura o darme tu opinión sobre cualquier elemento de la lista. Poco a poco intentaré completar la recopilación con más títulos.
 
 Leyenda: **Estado** 🚦 (🔴 no empezado, 🟡 en progreso, 🟢 terminado), **LQ** (Lo quiero), **LT** (lo tengo).
 
@@ -90,6 +90,8 @@ _*(esta lista sufrirá múltiples cambios a medida que agregue libros nuevos o q
 | Título y autor  | LQ | LT | Estado | Nota |
 |-----------------|-----------|----------|--------|------------|
 |[**Data Science**, de John D. Kelleher y Brendan Tierney](https://www.goodreads.com/book/show/36722689-data-science)|✅|✅|🟢|⭐⭐⭐⭐|
+|[**Pensar en sistemas**, de Donella H. Meadows](https://www.goodreads.com/book/show/60861368-pensar-en-sistemas-un-manual-de-iniciaci-n)|✅|✅|🟡|🤷‍♀️|
 |[**The Art of Statistics: How to Learn from Data**, de David Spiegelhalter](https://www.goodreads.com/book/show/43722897-the-art-of-statistics)|✅|✅|🟡|🤷‍♀️|
 |[**Kafka: The Definitive Guide 2nd Ed**, de Gwen Shapira y más](https://www.goodreads.com/book/show/61215962-kafka)|✅|✅|🟡|🤷‍♀️|
+|[**El mundo sin fin**, de Jancovici](https://www.goodreads.com/book/show/63882950-el-mundo-sin-fin)|✅|✅|🔴|🤷‍♀️|
 |[**Cybersecurity**, de Duane C. Wilson](https://www.goodreads.com/book/show/59706156-cybersecurity)|✅|✅|🔴|🤷‍♀️|
