@@ -18,13 +18,12 @@ Leyenda: **Estado** 🚦 (🔴 no empezado, 🟡 en progreso, 🟢 terminado), *
 
 ---
 
-## Top 5
+## Top 5 estrellas
 
 * The Pragmatic Programmer 20th Ann
 * Effective Java 3rd Ed
 * This is Lean: Resolving the efficiency paradox
-* Modern software engineering
-* Pensar en sistemas
+* Utopía para realistas
 
 
 _*(esta lista sufrirá múltiples cambios a medida que agregue libros nuevos o que re-evalue mis preferencias)_
@@ -37,7 +36,7 @@ _*(esta lista sufrirá múltiples cambios a medida que agregue libros nuevos o q
 |---------------|----|----|------|
 |[**The Pragmatic Programmer 20th Ann**, de Andy Hunt y David Thomas](https://www.goodreads.com/book/show/60633459-the-pragmatic-programmer-20th-anniversary-edition-your-journey-to-maste)|💸|🟢|⭐⭐⭐⭐⭐|
 |[**Modern software engineering**, de David Farley](https://www.goodreads.com/book/show/57345270-modern-software-engineering)|💸|🟢|⭐⭐⭐⭐|
-|[**Get Your Hands Dirty on Clean Architecture**, de Tom Hombergs](https://leanpub.com/get-your-hands-dirty-on-clean-architecture/)|💸|🟢|⭐⭐⭐|
+|[**Get Your Hands Dirty on Clean Architecture 2nd Ed**, de Tom Hombergs](https://leanpub.com/get-your-hands-dirty-on-clean-architecture/)|💸|🟢|⭐⭐⭐⭐|
 |[**A Philosophy of Software Design**, de John Ousterhout](https://www.goodreads.com/book/show/39996759-a-philosophy-of-software-design)|💸|🟢|⭐⭐⭐|
 |[**Designing Data-Intensive Applications**, de Martin Kleppmann](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications)|💸|🟡|🤷‍♀️|
 |[**Refactoring 2nd Ed**, de Martin Fowler](https://www.refactoring.com/)|💸|🔴|🤷‍♀️|
@@ -51,7 +50,7 @@ _*(esta lista sufrirá múltiples cambios a medida que agregue libros nuevos o q
 |---------------|----|----|------|
 |[**Effective Java 3rd Ed**, de Joshua Bloch](https://www.goodreads.com/book/show/105099.Effective_Java_)|💸|🟡|⭐⭐⭐⭐⭐|
 |[**Atomic Kotlin**, de Bruce Eckel y Svetlana Isakova](https://leanpub.com/AtomicKotlin)|💸|🟡|🤷‍♀️|
-|[**Effective Kotlin**, de Marcin Moskala](https://leanpub.com/effectivekotlin)|💸|🔴|🤷‍♀️|
+|[**Effective Kotlin 2nd Ed**, de Marcin Moskala](https://leanpub.com/effectivekotlin)|💸|🔴|🤷‍♀️|
 
 ---
 
@@ -77,6 +76,7 @@ _*(esta lista sufrirá múltiples cambios a medida que agregue libros nuevos o q
 | Título, autor | 📕 | 🚦 | Nota |
 |---------------|----|----|------|
 |[**Drive: The Surprising Truth About What Motivates Us**, de Daniel H. Pink](https://www.goodreads.com/book/show/6452796-drive)|💸|🟢|⭐⭐⭐⭐|
+|[**¡Sí!**, de Noah J. Goldstein, Steve J. Martin y Robert B. Cialdini](https://www.goodreads.com/book/show/13226702-s)|💸|🟢|⭐⭐⭐⭐|
 |[**Nuestra mente nos engaña**, de Helena Matute](https://www.goodreads.com/book/show/51107412-nuestra-mente-nos-enga-a)|💸|🟢|⭐⭐⭐|
 |[**Mide lo que importa**, de John Doerr](https://www.goodreads.com/book/show/42419870-mide-lo-que-importa)|💸|🟢|⭐⭐⭐|
 |[**Give and Take**, de Adam M. Grant](https://www.goodreads.com/book/show/16158498-give-and-take)|💸|🔴|🤷‍♀️|
@@ -90,9 +90,12 @@ _*(esta lista sufrirá múltiples cambios a medida que agregue libros nuevos o q
 
 | Título, autor | 📕 | 🚦 | Nota |
 |---------------|----|----|------|
+|[**Utopía para realistas**, de Rutger Bregman](https://www.goodreads.com/book/show/34651610-utop-a-para-realistas)|💸|🟢|⭐⭐⭐⭐⭐|
 |[**Pensar en sistemas**, de Donella H. Meadows](https://www.goodreads.com/book/show/60861368-pensar-en-sistemas-un-manual-de-iniciaci-n)|💸|🟢|⭐⭐⭐⭐|
+|[**Armas de destrucción matemática**, de Cathy O'Neil](https://www.goodreads.com/book/show/38338491-armas-de-destrucci-n-matem-tica)|💸|🟢|⭐⭐⭐⭐|
+|[**Upgrade**, de M. Quintana y D. Alayón](https://www.goodreads.com/book/show/61211996)|💸|🟢|⭐⭐⭐⭐|
 |[**Data Science**, de John D. Kelleher y Brendan Tierney](https://www.goodreads.com/book/show/36722689-data-science)|💸|🟢|⭐⭐⭐|
-|[**Upgrade**, de M. Quintana y D. Alayón](https://www.goodreads.com/book/show/61211996)|💸|🟡|🤷‍♀️|
+|[**Menos es más**, de Jason Hickel y Clara Mistral](https://www.goodreads.com/book/show/144573181-menos-es-m-s)|💸|🟡|🤷‍♀️|
 |[**The Art of Statistics: How to Learn from Data**, de David Spiegelhalter](https://www.goodreads.com/book/show/43722897-the-art-of-statistics)|💸|🟡|🤷‍♀️|
 |[**Kafka: The Definitive Guide 2nd Ed**, de Gwen Shapira y más](https://www.goodreads.com/book/show/61215962-kafka)|💸|🟡|🤷‍♀️|
 |[**El mundo sin fin**, de Jancovici](https://www.goodreads.com/book/show/63882950-el-mundo-sin-fin)|💸|🔴|🤷‍♀️|
