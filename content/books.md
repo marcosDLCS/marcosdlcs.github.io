@@ -1,7 +1,5 @@
 ---
 title: "Club de lectura"
-lastmod: 2023-12-30
-date: 2022-12-05
 ---
 
 En esta sección encontrarás una **lista reducida de los libros más relevantes que estoy leyendo**, los que me gustaría leer en algún futuro o aquellos que ya he acabado.

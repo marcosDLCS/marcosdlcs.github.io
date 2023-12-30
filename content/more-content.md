@@ -1,7 +1,5 @@
 ---
 title: "Más contenido"
-lastmod: 2022-12-05
-date: 2022-12-05
 ---
 
 ## 📙 TeachTech
