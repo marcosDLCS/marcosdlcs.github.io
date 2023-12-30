@@ -1,6 +1,6 @@
 ---
 title: "Club de lectura"
-lastmod: 2023-03-13
+lastmod: 2023-12-30
 date: 2022-12-05
 ---
 
@@ -26,7 +26,7 @@ Leyenda: **Estado** 🚦 (🔴 no empezado, 🟡 en progreso, 🟢 terminado), *
 * Utopía para realistas
 
 
-_*(esta lista sufrirá múltiples cambios a medida que agregue libros nuevos o que re-evalue mis preferencias)_
+_*(la lista sufrirá múltiples cambios a medida que agregue libros nuevos o que re-evalue mis preferencias)_
 
 ---
 
@@ -34,13 +34,14 @@ _*(esta lista sufrirá múltiples cambios a medida que agregue libros nuevos o q
 
 | Título, autor | 📕 | 🚦 | Nota |
 |---------------|----|----|------|
-|[**The Pragmatic Programmer 20th Ann**, de Andy Hunt y David Thomas](https://www.goodreads.com/book/show/60633459-the-pragmatic-programmer-20th-anniversary-edition-your-journey-to-maste)|💸|🟢|⭐⭐⭐⭐⭐|
-|[**Modern software engineering**, de David Farley](https://www.goodreads.com/book/show/57345270-modern-software-engineering)|💸|🟢|⭐⭐⭐⭐|
-|[**Get Your Hands Dirty on Clean Architecture 2nd Ed**, de Tom Hombergs](https://leanpub.com/get-your-hands-dirty-on-clean-architecture/)|💸|🟢|⭐⭐⭐⭐|
-|[**A Philosophy of Software Design**, de John Ousterhout](https://www.goodreads.com/book/show/39996759-a-philosophy-of-software-design)|💸|🟢|⭐⭐⭐|
-|[**Designing Data-Intensive Applications**, de Martin Kleppmann](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications)|💸|🟡|🤷‍♀️|
-|[**Refactoring 2nd Ed**, de Martin Fowler](https://www.refactoring.com/)|💸|🔴|🤷‍♀️|
-|[**Staff Engineer**, de Will Larson y Tanya Reilly](https://www.goodreads.com/book/show/56481725-staff-engineer)|💸|🔴|🤷‍♀️|
+|[**The Pragmatic Programmer 20th Ann**, de Andy Hunt y David Thomas](https://www.goodreads.com/book/show/60633459-the-pragmatic-programmer-20th-anniversary-edition-your-journey-to-maste)|💸|🟢|5⭐|
+|[**Modern software engineering**, de David Farley](https://www.goodreads.com/book/show/57345270-modern-software-engineering)|💸|🟢|4⭐|
+|[**Get Your Hands Dirty on Clean Architecture 2nd Ed**, de Tom Hombergs](https://leanpub.com/get-your-hands-dirty-on-clean-architecture/)|💸|🟢|4⭐|
+|[**A Philosophy of Software Design**, de John Ousterhout](https://www.goodreads.com/book/show/39996759-a-philosophy-of-software-design)|💸|🟢|3⭐|
+|[**Extreme Programming Explained**, de Kent Beck y Cynthia Andres](https://www.goodreads.com/book/show/67833.Extreme_Programming_Explained)|💸|🟡|🤷‍♀️🤷‍♀️|
+|[**Tidy First?**, de Kent Beck](https://www.goodreads.com/book/show/171691901-tidy-first)|💸|🟡|🤷‍♀️🤷‍♀️|
+|[**Refactoring 2nd Ed**, de Martin Fowler](https://www.refactoring.com/)|💸|🔴|🤷‍♀️🤷‍♀️|
+|[**Staff Engineer**, de Will Larson y Tanya Reilly](https://www.goodreads.com/book/show/56481725-staff-engineer)|💸|🔴|🤷‍♀️🤷‍♀️|
 
 ---
 
@@ -48,9 +49,9 @@ _*(esta lista sufrirá múltiples cambios a medida que agregue libros nuevos o q
 
 | Título, autor | 📕 | 🚦 | Nota |
 |---------------|----|----|------|
-|[**Effective Java 3rd Ed**, de Joshua Bloch](https://www.goodreads.com/book/show/105099.Effective_Java_)|💸|🟡|⭐⭐⭐⭐⭐|
-|[**Atomic Kotlin**, de Bruce Eckel y Svetlana Isakova](https://leanpub.com/AtomicKotlin)|💸|🟡|🤷‍♀️|
-|[**Effective Kotlin 2nd Ed**, de Marcin Moskala](https://leanpub.com/effectivekotlin)|💸|🔴|🤷‍♀️|
+|[**Effective Java 3rd Ed**, de Joshua Bloch](https://www.goodreads.com/book/show/105099.Effective_Java_)|💸|🟡|5⭐|
+|[**Atomic Kotlin**, de Bruce Eckel y Svetlana Isakova](https://leanpub.com/AtomicKotlin)|💸|🟡|🤷‍♀️🤷‍♀️|
+|[**Effective Kotlin 2nd Ed**, de Marcin Moskala](https://leanpub.com/effectivekotlin)|💸|🔴|🤷‍♀️🤷‍♀️|
 
 ---
 
@@ -58,7 +59,7 @@ _*(esta lista sufrirá múltiples cambios a medida que agregue libros nuevos o q
 
 | Título, autor | 📕 | 🚦 | Nota |
 |---------------|----|----|------|
-|[**Domain-Driven Design Distilled**, de Vaughn Vernon](https://www.goodreads.com/book/show/28602719-domain-driven-design-distilled)|💸|🟢|⭐⭐⭐⭐|
+|[**Domain-Driven Design Distilled**, de Vaughn Vernon](https://www.goodreads.com/book/show/28602719-domain-driven-design-distilled)|💸|🟢|4⭐|
 |[**Patterns, Principles and Practices of Domain-Driven Design**, de Scott Millett y Nick Tune](https://www.goodreads.com/book/show/25531393-patterns-principles-and-practices-of-domain-driven-design)|💸|🔴|🤷‍♀️|
 
 ---
@@ -67,7 +68,7 @@ _*(esta lista sufrirá múltiples cambios a medida que agregue libros nuevos o q
 
 | Título, autor | 📕 | 🚦 | Nota |
 |---------------|----|----|------|
-|[**This is Lean: Resolving the efficiency paradox**, de Nickas Modig](https://www.goodreads.com/book/show/17060202-this-is-lean)|💸|🟢|⭐⭐⭐⭐⭐|
+|[**This is Lean: Resolving the efficiency paradox**, de Nickas Modig](https://www.goodreads.com/book/show/17060202-this-is-lean)|💸|🟢|5⭐|
 
 ---
 
@@ -75,14 +76,24 @@ _*(esta lista sufrirá múltiples cambios a medida que agregue libros nuevos o q
 
 | Título, autor | 📕 | 🚦 | Nota |
 |---------------|----|----|------|
-|[**Drive: The Surprising Truth About What Motivates Us**, de Daniel H. Pink](https://www.goodreads.com/book/show/6452796-drive)|💸|🟢|⭐⭐⭐⭐|
-|[**¡Sí!**, de Noah J. Goldstein, Steve J. Martin y Robert B. Cialdini](https://www.goodreads.com/book/show/13226702-s)|💸|🟢|⭐⭐⭐⭐|
-|[**Nuestra mente nos engaña**, de Helena Matute](https://www.goodreads.com/book/show/51107412-nuestra-mente-nos-enga-a)|💸|🟢|⭐⭐⭐|
-|[**Mide lo que importa**, de John Doerr](https://www.goodreads.com/book/show/42419870-mide-lo-que-importa)|💸|🟢|⭐⭐⭐|
-|[**Give and Take**, de Adam M. Grant](https://www.goodreads.com/book/show/16158498-give-and-take)|💸|🔴|🤷‍♀️|
-|[**Cómo ganar amigos y influir sobre las personas**, de Dale Carnegie](https://www.goodreads.com/book/show/730797.C_mo_ganar_amigos_y_influir_sobre_las_personas)|💸|🔴|🤷‍♀️|
-|[**Pensar rápido, pensar despacio**, de Daniel Kahneman](https://www.goodreads.com/book/show/38228086-pensar-r-pido-pensar-despacio)|💸|🔴|🤷‍♀️|
-|[**Engineering management for the rest of us**, de Sarah Drasner](https://www.goodreads.com/book/show/58502800-engineering-management-for-the-rest-of-us)|💸|🔴|🤷‍♀️|
+|[**Drive: The Surprising Truth About What Motivates Us**, de Daniel H. Pink](https://www.goodreads.com/book/show/6452796-drive)|💸|🟢|4⭐|
+|[**¡Sí!**, de Noah J. Goldstein, Steve J. Martin y Robert B. Cialdini](https://www.goodreads.com/book/show/13226702-s)|💸|🟢|4⭐|
+|[**Nuestra mente nos engaña**, de Helena Matute](https://www.goodreads.com/book/show/51107412-nuestra-mente-nos-enga-a)|💸|🟢|3⭐|
+|[**Mide lo que importa**, de John Doerr](https://www.goodreads.com/book/show/42419870-mide-lo-que-importa)|💸|🟢|3⭐|
+|[**Give and Take**, de Adam M. Grant](https://www.goodreads.com/book/show/16158498-give-and-take)|💸|🔴|🤷‍♀️🤷‍♀️|
+|[**Cómo ganar amigos y influir sobre las personas**, de Dale Carnegie](https://www.goodreads.com/book/show/730797.C_mo_ganar_amigos_y_influir_sobre_las_personas)|💸|🔴|🤷‍♀️🤷‍♀️|
+|[**Pensar rápido, pensar despacio**, de Daniel Kahneman](https://www.goodreads.com/book/show/38228086-pensar-r-pido-pensar-despacio)|💸|🔴|🤷‍♀️🤷‍♀️|
+|[**Engineering management for the rest of us**, de Sarah Drasner](https://www.goodreads.com/book/show/58502800-engineering-management-for-the-rest-of-us)|💸|🔴|🤷‍♀️🤷‍♀️|
+
+---
+
+## Tecnologías
+
+| Título, autor | 📕 | 🚦 | Nota |
+|---------------|----|----|------|
+|[**Kafka: The Definitive Guide 2nd Ed**, de Gwen Shapira y más](https://www.goodreads.com/book/show/61215962-kafka)|💸|🟡|🤷‍♀️🤷‍♀️|
+|[**Designing Data-Intensive Applications**, de Martin Kleppmann](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications)|💸|🔴|🤷‍♀️🤷‍♀️|
+|[**Patterns of Distributed Systems**, de Unmesh Joshi](https://www.goodreads.com/book/show/123018982-patterns-of-distributed-systems-addison-wesley-signature-series)|💸|🔴|🤷‍♀️🤷‍♀️|
 
 ---
 
@@ -90,13 +101,14 @@ _*(esta lista sufrirá múltiples cambios a medida que agregue libros nuevos o q
 
 | Título, autor | 📕 | 🚦 | Nota |
 |---------------|----|----|------|
-|[**Utopía para realistas**, de Rutger Bregman](https://www.goodreads.com/book/show/34651610-utop-a-para-realistas)|💸|🟢|⭐⭐⭐⭐⭐|
-|[**Pensar en sistemas**, de Donella H. Meadows](https://www.goodreads.com/book/show/60861368-pensar-en-sistemas-un-manual-de-iniciaci-n)|💸|🟢|⭐⭐⭐⭐|
-|[**Armas de destrucción matemática**, de Cathy O'Neil](https://www.goodreads.com/book/show/38338491-armas-de-destrucci-n-matem-tica)|💸|🟢|⭐⭐⭐⭐|
-|[**Upgrade**, de M. Quintana y D. Alayón](https://www.goodreads.com/book/show/61211996)|💸|🟢|⭐⭐⭐⭐|
-|[**Data Science**, de John D. Kelleher y Brendan Tierney](https://www.goodreads.com/book/show/36722689-data-science)|💸|🟢|⭐⭐⭐|
-|[**Menos es más**, de Jason Hickel y Clara Mistral](https://www.goodreads.com/book/show/144573181-menos-es-m-s)|💸|🟡|🤷‍♀️|
-|[**The Art of Statistics: How to Learn from Data**, de David Spiegelhalter](https://www.goodreads.com/book/show/43722897-the-art-of-statistics)|💸|🟡|🤷‍♀️|
-|[**Kafka: The Definitive Guide 2nd Ed**, de Gwen Shapira y más](https://www.goodreads.com/book/show/61215962-kafka)|💸|🟡|🤷‍♀️|
-|[**El mundo sin fin**, de Jancovici](https://www.goodreads.com/book/show/63882950-el-mundo-sin-fin)|💸|🔴|🤷‍♀️|
-|[**Cybersecurity**, de Duane C. Wilson](https://www.goodreads.com/book/show/59706156-cybersecurity)|💸|🔴|🤷‍♀️|
+|[**Utopía para realistas**, de Rutger Bregman](https://www.goodreads.com/book/show/34651610-utop-a-para-realistas)|💸|🟢|5⭐|
+|[**Al menos tienes trabajo**, de Naiara Puertas](https://www.goodreads.com/book/show/49656893-al-menos-tienes-trabajo)|💸|🟢|4⭐|
+|[**Pensar en sistemas**, de Donella H. Meadows](https://www.goodreads.com/book/show/60861368-pensar-en-sistemas-un-manual-de-iniciaci-n)|💸|🟢|4⭐|
+|[**Armas de destrucción matemática**, de Cathy O'Neil](https://www.goodreads.com/book/show/38338491-armas-de-destrucci-n-matem-tica)|💸|🟢|4⭐|
+|[**Upgrade**, de M. Quintana y D. Alayón](https://www.goodreads.com/book/show/61211996)|💸|🟢|4⭐|
+|[**Data Science**, de John D. Kelleher y Brendan Tierney](https://www.goodreads.com/book/show/36722689-data-science)|💸|🟢|3⭐|
+|[**Menos es más**, de Jason Hickel y Clara Mistral](https://www.goodreads.com/book/show/144573181-menos-es-m-s)|💸|🟡|🤷‍♀️🤷‍♀️|
+|[**The Art of Statistics: How to Learn from Data**, de David Spiegelhalter](https://www.goodreads.com/book/show/43722897-the-art-of-statistics)|💸|🟡|🤷‍♀️🤷‍♀️|
+|[**El mundo sin fin**, de Jancovici](https://www.goodreads.com/book/show/63882950-el-mundo-sin-fin)|💸|🔴|🤷‍♀️🤷‍♀️|
+|[**Cybersecurity**, de Duane C. Wilson](https://www.goodreads.com/book/show/59706156-cybersecurity)|💸|🔴|🤷‍♀️🤷‍♀️|
+|[**El economista camuflado**, de Tim Harford](https://www.goodreads.com/book/show/42102458-el-economista-camuflado-la-economia-de-las-peque-as-cosas)|💸|🔴|🤷‍♀️🤷‍♀️|
