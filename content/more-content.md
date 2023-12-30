@@ -16,5 +16,5 @@ Puedes echar un vistazo a [**nuestra web**](https://www.teacht3ch.com/) si quier
 
 ### Repositorios
 
-* 📝 [Wordle-101](https://github.com/marcosDLCS/wordle-101)
-* 📝 [Static-Catalog-101](https://github.com/marcosDLCS/static-catalog-101)
+* 🤖 [Wordle-101](https://github.com/marcosDLCS/wordle-101)
+* 🤖 [Static-Catalog-101](https://github.com/marcosDLCS/static-catalog-101)
