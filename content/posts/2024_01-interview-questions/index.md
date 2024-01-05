@@ -27,7 +27,7 @@ Mención especial a las ofertas con rangos salariales amplísimos o con valores 
 
 En el siguiente nivel es fundamental entender el día a día en el posible nuevo puesto de trabajo, así como conocer cuestiones básicas del funcionamiento de la empresa.
 
-Comenzar a trabajar en un lugar nuevo nos lleva a tratar con nuevas personas y forjar relaciones entre diferentes departamentos, por ello los flujos de comunicación son determinantes.
+Comenzar a trabajar en un lugar nuevo nos lleva a tratar con nuevas personas y forjar relaciones entre diferentes departamentos, por ello, los flujos de comunicación son determinantes.
 
 > - **Horario**: ¿Cuál es el horario de trabajo más habitual? ¿Se realizan horarios especiales intensivos: viernes, meses de verano, navidad?
 > - **Día de trabajo**: ¿Podrías describir como sería un día típico trabajando en el proyecto (reuniones, tiempo de foco para trabajar)?
@@ -44,7 +44,7 @@ Con este bloque de peguntas pretendo conocer cómo de engrasada está la maquina
 
 ## LVL.03 - Descubre aquello que no te quieren contar
 
-En este último bloque me reservo un conjunto de preguntas algo más controvertidas que en muchos casos las empresas ofertantes de empleo suelen 'evitar'. 
+En este último bloque me reservo un conjunto de preguntas algo más controvertidas que en muchos casos las empresas ofertantes de empleo suelen 'evitar'.
 
 Como asistente a numerosos eventos del sector IT uno siempre encuentra que las compañías promocionan aquello de lo que se sienten orgullosas pero omiten deliberadamente información muy importante que puede llegar a impactar directamente en tu calidad de vida. 
 
@@ -54,20 +54,22 @@ De nada sirve que anuncies a bombo y platillo tus 7 clústers de Kubernetes si d
 > - **Hardware**: ¿Cuáles son las herramientas _hardware_ para trabajar? ¿Se trabaja a través de un equipo compartido? ¿Se dispone de sistemas como VPN o SSO?
 > - **Software**: ¿Cuáles son las licencias _software_ de servicios o herramientas (IntelliJ, Postman, etc) que utilizáis en el día a día?
 > - **Rotación y promoción**: ¿Cuál es la antigüedad media de los miembros en plantilla o en el equipo? ¿Disponéis de planes de movilidad interna dentro de la empresa? ¿Cómo funcionan los procesos de promoción?
-> - **Obsevabilidad**: ¿Qué software de observabilidad tenéis? ¿Qué métricas manejáis en el día a día?
-> - **Estrategia/planificación**: ¿Quién decide o prioriza la estrategia de negocio? ¿Cada cuánto cambia o se re-analiza? ¿_North Star_ para el equipo / departamento / compañía?
+> - **Observabilidad**: ¿Qué _software_ de observabilidad tenéis? ¿Qué métricas manejáis en el día a día?
+> - **Estrategia y planificación**: ¿Quién decide o prioriza la estrategia de negocio? ¿Cada cuánto cambia o se re-analiza? ¿_North Star_ para el equipo / departamento / compañía?
 > - **Outboarding**: ¿Tenéis proceso de _outboarding_? ¿Cómo gestionáis la marcha de empleados?
 > - **Documentación**: ¿Cuál es vuestra estrategia de documentación? ¿Cómo os aseguráis de que el conocimiento se comparte y llega a diferentes áreas de la empresa? ¿Cuidáis vuestro lenguaje ubicuo? ¿Cómo lucháis contra los silos de información?
 > - **Cultura de equipo**: Estrategia de _testing_ / _branching model_, tiempo de formación o mejora continua, _feedback_ interno, plan de carrera.
 
-Por experiencia, muchas de estas preguntas descolocan y derivan en situaciones tensas e incluso desagradables durante las entrevistas. Mi objetivo es que manejéis ejemplos sobre qué preguntar cuando tengáis dudas fundadas en algún aspecto clave. En mi humilde opinión, habiendo estado en ambos lados de un proceso de contratación, la formulación de preguntas denota interés por el puesto y nunca debría ser considerada un ataque.
+Por experiencia, muchas de estas preguntas descolocan y derivan en situaciones tensas e incluso desagradables durante las entrevistas. Mi objetivo es que manejéis ejemplos sobre qué preguntar cuando tengáis dudas fundadas en algún aspecto clave. 
+
+En mi humilde opinión, habiendo estado en ambos lados de un proceso de contratación, la formulación de preguntas denota interés por el puesto y nunca debría ser considerada un ataque.
 
 {{< figure src="images/202401-meme-incidents.jpg" alt="Perrete sospecha que estás mintiendo sobre las incidencias reales que hay durante las guardias" >}}
 
 ## En resumen
 
-Una entrevista debería ser algo así como una conversación amistosa entre dos partes interesadas en compartir un futuro laboral. En dicho proceso es fundamental hacer preguntas para conocer detalles sobre el puesto que te están ofertando.
+Una entrevista debería ser algo así como **una conversación amistosa entre dos partes interesadas en compartir un futuro laboral**. En dicho proceso es fundamental hacer preguntas para conocer detalles sobre el puesto que te están ofertando.
 
-Mi recomendación es que te prepares intentando conocer información básica de la empresa para la que te postulas y que seas honesto y cercano durante las entrevistas. No te olvides tampoco de tomar notas sobre todo lo que te compartan en las diferentes fases de un proceso de selección.
+Mi recomendación es que te prepares intentando **conocer información básica de la empresa** para la que te postulas y que seas **honesto y cercano durante las entrevistas**. No te olvides tampoco de **tomar notas** sobre todo lo que te compartan en las diferentes fases de un proceso de selección.
 
 Y cuando llege ese momento de _"¿Tienes alguna pregunta para nosotros?"_, ya sabes lo que hacer. Pregunta.
