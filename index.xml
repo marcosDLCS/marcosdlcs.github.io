@@ -14,27 +14,68 @@
       
       <guid>https://mdlcs.dev/posts/2024-01-interview-questions/</guid>
       <description>En todo proceso de entrevistas siempre llega el momento crucial en el que puedes (debes) realizar preguntas para conocer mejor a tu futuro empleador. Esta es la lista que siempre tengo a mano para inspirarme a la hora de preguntar y así descubrir los puntos fuertes y débiles de la oferta a la que me presento.</description>
-    </item>
-    
-    
-    <item>
-      <title>Club de lectura</title>
-      <link>https://mdlcs.dev/books/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mdlcs.dev/books/</guid>
-      <description>En esta sección encontrarás una lista reducida de los libros más relevantes que estoy leyendo, los que me gustaría leer en algún futuro o aquellos que ya he acabado.
-Se trata de una selección basada en mis gustos y necesidades, por lo tanto sesgada. No dudes en contactarme por redes si quieres recomendarme alguna lectura o darme tu opinión sobre cualquier elemento de la lista. Poco a poco intentaré completar la recopilación con más títulos.</description>
-    </item>
-    
-    <item>
-      <title>Más contenido</title>
-      <link>https://mdlcs.dev/more-content/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mdlcs.dev/more-content/</guid>
-      <description>📙 TeachTech TeachTech es una iniciativa sin ánimo de lucro en la que varios profesionales del sector nos reunimos y organizamos para enseñar a programar desde cero a personas con pocos o nulos conocimientos en la materia que buscan nuevos retos. Los contenidos del curso están relacionados con el ecosistema web: HTML, CSS y Javascript.
-Puedes echar un vistazo a nuestra web si quieres. En ella en ocasiones escribo alguna entrada que pueda ser útil a nuestros alumnos y alumnas.</description>
+      <content:encoded><![CDATA[<h2 id="lvl01---preguntas-básicas">LVL.01 - Preguntas básicas</h2>
+<p>Las preguntas que listo a continuación no deberían formar parte del proceso de entrevistas sino de la descripción de la oferta a la que uno se presenta. Si me apuráis, debería haber legislación al respecto para que estos datos sean parte obligatoria en la descripción de cualquier empleo.</p>
+<blockquote>
+<ul>
+<li><strong>Modo</strong>: ¿Presencial, híbrido, teletrabajo, trabajo remoto?</li>
+<li><strong>Salario</strong>: ¿Cúal es el rango salarial de la oferta? ¿Hay bonificaciones variables?</li>
+<li><strong>Vacaciones</strong>: ¿Cuántos días de vacaciones ofrece la empresa? ¿Hay días especiales de vacaciones: cumpleaños, nochebuena y/o nochevieja, libre disposición, conciliación?</li>
+<li><strong>Beneficios</strong>: ¿Formación, seguro médico, ticket restaurante, clases de inglés, presupuesto para trabajo remoto, asistencia a eventos IT, otros?</li>
+</ul>
+</blockquote>
+<p>Mención especial a las ofertas con rangos salariales amplísimos o con valores indeterminados del tipo &ldquo;según valía&rdquo;. No recomiendo aceptar una respuesta de este tipo ya que se podría considerar una falta de respeto a vuestro interés por la oferta o a vuestro tiempo libre. Y por experiencia, no seáis los primeros en comunicar expectativas salariales en el caso de no contar con esa información.</p>
+<figure>
+    <img loading="lazy" src="./images/202401-meme-interviews.jpg"
+         alt="Dos monos luchando a cuchillo" width="auto"/> 
+</figure>
+
+<h2 id="lvl02---cómo-es-el-trabajo-en-el-día-a-día">LVL.02 - ¿Cómo es el trabajo en el día a día?</h2>
+<p>En el siguiente nivel es fundamental entender el día a día en el posible nuevo puesto de trabajo, así como conocer cuestiones básicas del funcionamiento de la empresa. Comenzar a trabajar en un lugar nuevo nos lleva a tratar con nuevas personas y forjar relaciones entre diferentes departamentos, por ello los flujos de comunicación son determinantes.</p>
+<blockquote>
+<ul>
+<li><strong>Horario</strong>: ¿Cuál es el horario de trabajo más habitual? ¿Se realizan horarios especiales intensivos: viernes, meses de verano, navidad?</li>
+<li><strong>Día de trabajo</strong>: ¿Podrías describir como sería un día típico trabajando en el proyecto (reuniones, tiempo de foco para trabajar)?</li>
+<li><strong>Onboarding</strong>: ¿Cómo será mi proceso de <em>onboarding</em>?</li>
+<li><strong>Evolución y responsabilidades</strong>: ¿Qué esperáis de la persona que opte al puesto que estáis ofertando? ¿Cuál es la evolución óptima que manejáis?</li>
+<li><strong>Otros equipos</strong>: ¿Se dispone de un equipo de sistemas / plataforma / QA / incidencias independiente? ¿Tenéis roles transversales en tecnología (<em>engineering manager</em>, <em>solutions architect</em>, &hellip;)?</li>
+<li><strong>Retos empresa</strong>: ¿Cuál es el reto actual más importante al que se enfrenta el equipo / departamento / empresa?</li>
+<li><strong>Eventos</strong>: ¿Hay reuniones recurrentes del tipo <em>&lsquo;company meeting&rsquo;</em> o <em>&rsquo;team building&rsquo;</em>? ¿Cómo suelen ser? ¿Con qué periodicidad? ¿Se pueden rechazar?</li>
+<li><strong>Viajes</strong>: ¿Se hace cargo la empresa de los gastos y la reserva de transporte/alojamiento cuando hay que viajar?</li>
+</ul>
+</blockquote>
+<p>Con este bloque de peguntas pretendo conocer cómo de engrasada está la maquinaria burocrática. Cuesta aceptar a veces que determinados problemas de productividad nacen de procesos extremadamente tediosos o poco afinados, exceso de reuniones o <em>micro-management</em>. A este respecto la <a href="https://es.wikipedia.org/wiki/Ley_de_Conway">Ley de Conway</a> sigue plenamente vigente.</p>
+<figure>
+    <img loading="lazy" src="./images/202401-meme-meetings.jpg"
+         alt="Individuo frente al ordenador con cara de circunstancias. La imagen dice: Primer día de trabajo... Tienes 438 nuevas reuniones" width="auto"/> 
+</figure>
+
+<h2 id="lvl03---descubre-aquello-que-no-te-quieren-contar">LVL.03 - Descubre aquello que no te quieren contar</h2>
+<p>En este último bloque me reservo un conjunto de preguntas algo más controvertidas que en muchos casos las empresas ofertantes de empleo suelen &rsquo;evitar&rsquo;. Como asistente a numerosos eventos del sector IT uno siempre encuentra que las compañías promocionan aquello de lo que se sienten orgullosas pero omiten deliberadamente información muy importante que puede llegar a impactar directamente en tu calidad de vida. De nada sirve que anuncies a bombo y platillo tus 7 clústers de Kubernetes si después tus empleados tienen equipos informáticos con 4GB de RAM o si van a recibir 5 llamadas cada madrugada cuando estén de <em>oncall</em>.</p>
+<blockquote>
+<ul>
+<li><strong>Guardias</strong>: ¿Hay guardias? ¿Activas o pasivas? ¿Con qué periodicidad? ¿Cuál es la compensación extra por realizarlas? ¿Cuántas incidencias se notifican de media por semana / mes?</li>
+<li><strong>Hardware</strong>: ¿Cuáles son las herramientas <em>hardware</em> para trabajar? ¿Se trabaja a través de un equipo compartido? ¿Se dispone de sistemas como VPN o SSO?</li>
+<li><strong>Software</strong>: ¿Cuáles son las licencias <em>software</em> de servicios o herramientas (IntelliJ, Postman, etc) que utilizáis en el día a día?</li>
+<li><strong>Rotación y promoción</strong>: ¿Cuál es la antigüedad media de los miembros en plantilla o en el equipo? ¿Disponéis de planes de movilidad interna dentro de la empresa? ¿Cómo funcionan los procesos de promoción?</li>
+<li><strong>Obsevabilidad</strong>: ¿Qué software de observabilidad tenéis? ¿Qué métricas manejáis en el día a día?</li>
+<li><strong>Estrategia/planificación</strong>: ¿Quién decide o prioriza la estrategia de negocio? ¿Cada cuánto cambia o se re-analiza? ¿<em>North Star</em> para el equipo / departamento / compañía?</li>
+<li><strong>Outboarding</strong>: ¿Tenéis proceso de <em>outboarding</em>? ¿Cómo gestionáis la marcha de empleados?</li>
+<li><strong>Documentación</strong>: ¿Cuál es vuestra estrategia de documentación? ¿Cómo os aseguráis de que el conocimiento se comparte y llega a diferentes áreas de la empresa? ¿Cuidáis vuestro lenguaje ubicuo? ¿Cómo lucháis contra los silos de información?</li>
+<li><strong>Cultura de equipo</strong>: Estrategia de <em>testing</em> / <em>branching model</em>, tiempo de formación o mejora continua, <em>feedback</em> interno, plan de carrera.</li>
+</ul>
+</blockquote>
+<p>Por experiencia, muchas de estas preguntas descolocan y derivan en situaciones tensas e incluso desagradables durante las entrevistas. Mi objetivo es que manejéis ejemplos sobre qué preguntar cuando tengáis dudas fundadas en algún aspecto clave. En mi humilde opinión, habiendo estado en ambos lados de un proceso de contratación, la formulación de preguntas denota interés por el puesto y nunca debría ser considerada un ataque.</p>
+<figure>
+    <img loading="lazy" src="./images/202401-meme-incidents.jpg"
+         alt="Perrete sospecha que estás mintiendo sobre las incidencias reales que hay durante las guardias"/> 
+</figure>
+
+<h2 id="en-resumen">En resumen</h2>
+<p>Una entrevista debería ser algo así como una conversación amistosa entre dos partes interesadas en compartir un futuro laboral. En dicho proceso es fundamental hacer preguntas para conocer detalles sobre el puesto que te están ofertando.</p>
+<p>Mi recomendación es que te prepares intentando conocer información básica de la empresa para la que te postulas y que seas honesto y cercano durante las entrevistas. No te olvides tampoco de tomar notas sobre todo lo que te compartan en las diferentes fases de un proceso de selección.</p>
+<p>Y cuando llege ese momento de <em>&quot;¿Tienes alguna pregunta para nosotros?&quot;</em>, ya sabes lo que hacer. Pregunta.</p>
+]]></content:encoded>
     </item>
     
   </channel>
