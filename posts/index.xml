@@ -32,7 +32,7 @@
 
 <h2 id="lvl02---cómo-es-el-trabajo-en-el-día-a-día">LVL.02 - ¿Cómo es el trabajo en el día a día?</h2>
 <p>En el siguiente nivel es fundamental entender el día a día en el posible nuevo puesto de trabajo, así como conocer cuestiones básicas del funcionamiento de la empresa.</p>
-<p>Comenzar a trabajar en un lugar nuevo nos lleva a tratar con nuevas personas y forjar relaciones entre diferentes departamentos, por ello los flujos de comunicación son determinantes.</p>
+<p>Comenzar a trabajar en un lugar nuevo nos lleva a tratar con nuevas personas y forjar relaciones entre diferentes departamentos, por ello, los flujos de comunicación son determinantes.</p>
 <blockquote>
 <ul>
 <li><strong>Horario</strong>: ¿Cuál es el horario de trabajo más habitual? ¿Se realizan horarios especiales intensivos: viernes, meses de verano, navidad?</li>
@@ -61,22 +61,23 @@
 <li><strong>Hardware</strong>: ¿Cuáles son las herramientas <em>hardware</em> para trabajar? ¿Se trabaja a través de un equipo compartido? ¿Se dispone de sistemas como VPN o SSO?</li>
 <li><strong>Software</strong>: ¿Cuáles son las licencias <em>software</em> de servicios o herramientas (IntelliJ, Postman, etc) que utilizáis en el día a día?</li>
 <li><strong>Rotación y promoción</strong>: ¿Cuál es la antigüedad media de los miembros en plantilla o en el equipo? ¿Disponéis de planes de movilidad interna dentro de la empresa? ¿Cómo funcionan los procesos de promoción?</li>
-<li><strong>Obsevabilidad</strong>: ¿Qué software de observabilidad tenéis? ¿Qué métricas manejáis en el día a día?</li>
-<li><strong>Estrategia/planificación</strong>: ¿Quién decide o prioriza la estrategia de negocio? ¿Cada cuánto cambia o se re-analiza? ¿<em>North Star</em> para el equipo / departamento / compañía?</li>
+<li><strong>Observabilidad</strong>: ¿Qué <em>software</em> de observabilidad tenéis? ¿Qué métricas manejáis en el día a día?</li>
+<li><strong>Estrategia y planificación</strong>: ¿Quién decide o prioriza la estrategia de negocio? ¿Cada cuánto cambia o se re-analiza? ¿<em>North Star</em> para el equipo / departamento / compañía?</li>
 <li><strong>Outboarding</strong>: ¿Tenéis proceso de <em>outboarding</em>? ¿Cómo gestionáis la marcha de empleados?</li>
 <li><strong>Documentación</strong>: ¿Cuál es vuestra estrategia de documentación? ¿Cómo os aseguráis de que el conocimiento se comparte y llega a diferentes áreas de la empresa? ¿Cuidáis vuestro lenguaje ubicuo? ¿Cómo lucháis contra los silos de información?</li>
 <li><strong>Cultura de equipo</strong>: Estrategia de <em>testing</em> / <em>branching model</em>, tiempo de formación o mejora continua, <em>feedback</em> interno, plan de carrera.</li>
 </ul>
 </blockquote>
-<p>Por experiencia, muchas de estas preguntas descolocan y derivan en situaciones tensas e incluso desagradables durante las entrevistas. Mi objetivo es que manejéis ejemplos sobre qué preguntar cuando tengáis dudas fundadas en algún aspecto clave. En mi humilde opinión, habiendo estado en ambos lados de un proceso de contratación, la formulación de preguntas denota interés por el puesto y nunca debría ser considerada un ataque.</p>
+<p>Por experiencia, muchas de estas preguntas descolocan y derivan en situaciones tensas e incluso desagradables durante las entrevistas. Mi objetivo es que manejéis ejemplos sobre qué preguntar cuando tengáis dudas fundadas en algún aspecto clave.</p>
+<p>En mi humilde opinión, habiendo estado en ambos lados de un proceso de contratación, la formulación de preguntas denota interés por el puesto y nunca debría ser considerada un ataque.</p>
 <figure>
     <img loading="lazy" src="images/202401-meme-incidents.jpg"
          alt="Perrete sospecha que estás mintiendo sobre las incidencias reales que hay durante las guardias"/> 
 </figure>
 
 <h2 id="en-resumen">En resumen</h2>
-<p>Una entrevista debería ser algo así como una conversación amistosa entre dos partes interesadas en compartir un futuro laboral. En dicho proceso es fundamental hacer preguntas para conocer detalles sobre el puesto que te están ofertando.</p>
-<p>Mi recomendación es que te prepares intentando conocer información básica de la empresa para la que te postulas y que seas honesto y cercano durante las entrevistas. No te olvides tampoco de tomar notas sobre todo lo que te compartan en las diferentes fases de un proceso de selección.</p>
+<p>Una entrevista debería ser algo así como <strong>una conversación amistosa entre dos partes interesadas en compartir un futuro laboral</strong>. En dicho proceso es fundamental hacer preguntas para conocer detalles sobre el puesto que te están ofertando.</p>
+<p>Mi recomendación es que te prepares intentando <strong>conocer información básica de la empresa</strong> para la que te postulas y que seas <strong>honesto y cercano durante las entrevistas</strong>. No te olvides tampoco de <strong>tomar notas</strong> sobre todo lo que te compartan en las diferentes fases de un proceso de selección.</p>
 <p>Y cuando llege ese momento de <em>&quot;¿Tienes alguna pregunta para nosotros?&quot;</em>, ya sabes lo que hacer. Pregunta.</p>
 ]]></content:encoded>
     </item>
