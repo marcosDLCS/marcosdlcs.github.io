@@ -25,7 +25,9 @@ Mención especial a las ofertas con rangos salariales amplísimos o con valores 
 
 ## LVL.02 - ¿Cómo es el trabajo en el día a día?
 
-En el siguiente nivel es fundamental entender el día a día en el posible nuevo puesto de trabajo, así como conocer cuestiones básicas del funcionamiento de la empresa. Comenzar a trabajar en un lugar nuevo nos lleva a tratar con nuevas personas y forjar relaciones entre diferentes departamentos, por ello los flujos de comunicación son determinantes.
+En el siguiente nivel es fundamental entender el día a día en el posible nuevo puesto de trabajo, así como conocer cuestiones básicas del funcionamiento de la empresa.
+
+Comenzar a trabajar en un lugar nuevo nos lleva a tratar con nuevas personas y forjar relaciones entre diferentes departamentos, por ello los flujos de comunicación son determinantes.
 
 > - **Horario**: ¿Cuál es el horario de trabajo más habitual? ¿Se realizan horarios especiales intensivos: viernes, meses de verano, navidad?
 > - **Día de trabajo**: ¿Podrías describir como sería un día típico trabajando en el proyecto (reuniones, tiempo de foco para trabajar)?
@@ -42,7 +44,11 @@ Con este bloque de peguntas pretendo conocer cómo de engrasada está la maquina
 
 ## LVL.03 - Descubre aquello que no te quieren contar
 
-En este último bloque me reservo un conjunto de preguntas algo más controvertidas que en muchos casos las empresas ofertantes de empleo suelen 'evitar'. Como asistente a numerosos eventos del sector IT uno siempre encuentra que las compañías promocionan aquello de lo que se sienten orgullosas pero omiten deliberadamente información muy importante que puede llegar a impactar directamente en tu calidad de vida. De nada sirve que anuncies a bombo y platillo tus 7 clústers de Kubernetes si después tus empleados tienen equipos informáticos con 4GB de RAM o si van a recibir 5 llamadas cada madrugada cuando estén de _oncall_.
+En este último bloque me reservo un conjunto de preguntas algo más controvertidas que en muchos casos las empresas ofertantes de empleo suelen 'evitar'. 
+
+Como asistente a numerosos eventos del sector IT uno siempre encuentra que las compañías promocionan aquello de lo que se sienten orgullosas pero omiten deliberadamente información muy importante que puede llegar a impactar directamente en tu calidad de vida. 
+
+De nada sirve que anuncies a bombo y platillo tus 7 clústers de Kubernetes si después tus empleados tienen equipos informáticos con 4GB de RAM o si van a recibir 5 llamadas cada madrugada cuando estén de _oncall_.
 
 > - **Guardias**: ¿Hay guardias? ¿Activas o pasivas? ¿Con qué periodicidad? ¿Cuál es la compensación extra por realizarlas? ¿Cuántas incidencias se notifican de media por semana / mes?
 > - **Hardware**: ¿Cuáles son las herramientas _hardware_ para trabajar? ¿Se trabaja a través de un equipo compartido? ¿Se dispone de sistemas como VPN o SSO?
