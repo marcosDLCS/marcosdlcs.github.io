@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>spanish on mdlcs.dev</title>
+    <link>https://mdlcs.dev/tags/spanish/</link>
+    <description>Recent content in spanish on mdlcs.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ES</language>
+    <lastBuildDate>Fri, 05 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mdlcs.dev/tags/spanish/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Tienes alguna pregunta para nosotros?</title>
+      <link>https://mdlcs.dev/posts/2024-01-interview-questions/</link>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://mdlcs.dev/posts/2024-01-interview-questions/</guid>
+      <description>En todo proceso de entrevistas siempre llega el momento crucial en el que puedes (debes) realizar preguntas para conocer mejor a tu futuro empleador. Esta es la lista que siempre tengo a mano para inspirarme a la hora de preguntar y así descubrir los puntos fuertes y débiles de la oferta a la que me presento.</description>
+    </item>
+    
+  </channel>
+</rss>

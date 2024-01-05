@@ -5,7 +5,17 @@
     <link>https://mdlcs.dev/</link>
     <description>Recent content on mdlcs.dev</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-ES</language><atom:link href="https://mdlcs.dev/index.xml" rel="self" type="application/rss+xml" />
+    <language>es-ES</language>
+    <lastBuildDate>Fri, 05 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mdlcs.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Tienes alguna pregunta para nosotros?</title>
+      <link>https://mdlcs.dev/posts/2024-01-interview-questions/</link>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://mdlcs.dev/posts/2024-01-interview-questions/</guid>
+      <description>En todo proceso de entrevistas siempre llega el momento crucial en el que puedes (debes) realizar preguntas para conocer mejor a tu futuro empleador. Esta es la lista que siempre tengo a mano para inspirarme a la hora de preguntar y así descubrir los puntos fuertes y débiles de la oferta a la que me presento.</description>
+    </item>
+    
     
     <item>
       <title>Club de lectura</title>
