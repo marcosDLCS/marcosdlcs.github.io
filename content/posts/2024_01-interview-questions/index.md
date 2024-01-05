@@ -21,7 +21,7 @@ Las preguntas que listo a continuación no deberían formar parte del proceso de
 
 Mención especial a las ofertas con rangos salariales amplísimos o con valores indeterminados del tipo "según valía". No recomiendo aceptar una respuesta de este tipo ya que se podría considerar una falta de respeto a vuestro interés por la oferta o a vuestro tiempo libre. Y por experiencia, no seáis los primeros en comunicar expectativas salariales en el caso de no contar con esa información.
 
-{{< figure src="./images/202401-meme-interviews.jpg" alt="Dos monos luchando a cuchillo" width="auto" >}}
+{{< figure src="images/202401-meme-interviews.jpg" alt="Dos monos luchando a cuchillo" width="auto" >}}
 
 ## LVL.02 - ¿Cómo es el trabajo en el día a día?
 
@@ -38,7 +38,7 @@ En el siguiente nivel es fundamental entender el día a día en el posible nuevo
 
 Con este bloque de peguntas pretendo conocer cómo de engrasada está la maquinaria burocrática. Cuesta aceptar a veces que determinados problemas de productividad nacen de procesos extremadamente tediosos o poco afinados, exceso de reuniones o _micro-management_. A este respecto la [Ley de Conway](https://es.wikipedia.org/wiki/Ley_de_Conway) sigue plenamente vigente.
 
-{{< figure src="./images/202401-meme-meetings.jpg" alt="Individuo frente al ordenador con cara de circunstancias. La imagen dice: Primer día de trabajo... Tienes 438 nuevas reuniones" width="auto" >}}
+{{< figure src="images/202401-meme-meetings.jpg" alt="Individuo frente al ordenador con cara de circunstancias. La imagen dice: Primer día de trabajo... Tienes 438 nuevas reuniones" width="auto" >}}
 
 ## LVL.03 - Descubre aquello que no te quieren contar
 
@@ -56,7 +56,7 @@ En este último bloque me reservo un conjunto de preguntas algo más controverti
 
 Por experiencia, muchas de estas preguntas descolocan y derivan en situaciones tensas e incluso desagradables durante las entrevistas. Mi objetivo es que manejéis ejemplos sobre qué preguntar cuando tengáis dudas fundadas en algún aspecto clave. En mi humilde opinión, habiendo estado en ambos lados de un proceso de contratación, la formulación de preguntas denota interés por el puesto y nunca debría ser considerada un ataque.
 
-{{< figure src="./images/202401-meme-incidents.jpg" alt="Perrete sospecha que estás mintiendo sobre las incidencias reales que hay durante las guardias" >}}
+{{< figure src="images/202401-meme-incidents.jpg" alt="Perrete sospecha que estás mintiendo sobre las incidencias reales que hay durante las guardias" >}}
 
 ## En resumen
 

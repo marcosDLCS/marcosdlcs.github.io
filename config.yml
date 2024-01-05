@@ -55,9 +55,12 @@ menu:
     - identifier: books
       name: Club de lectura
       url: /books
+      weight: 1
     - identifier: more-content
       name: Más contenido
       url: /more-content
+      weight: 2
     - identifier: search
       name: Buscar
       url: /search
+      weight: 3
