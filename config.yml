@@ -7,7 +7,6 @@ minify:
   disableXML: true
   minifyOutput: true
 params:
-  env: production
   homeInfoParams:
     Title: |-
       ¡Hola! 👋🏻 Soy Marcos 
