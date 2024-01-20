@@ -2,9 +2,9 @@
 title: "Club de lectura"
 ---
 
-En esta sección encontrarás una **lista reducida de los libros más relevantes que estoy leyendo**, los que me gustaría leer en algún futuro o aquellos que ya he acabado.
+Aquí hallarás una **breve selección** de los libros que estoy leyendo actualmente, aquellos que tengo en mente para el futuro, y los que ya he terminado. Esta lista refleja mis preferencias y necesidades, por lo que es **subjetiva**.
 
-Se trata de una selección basada en mis gustos y necesidades, por lo tanto sesgada. No dudes en contactarme por redes si quieres recomendarme alguna lectura o darme tu opinión sobre cualquier elemento de la lista. Poco a poco intentaré completar la recopilación con más títulos.
+Si tienes alguna recomendación o comentario sobre los títulos, no dudes en contactarme en redes sociales. Gradualmente ampliaré la recopilación con más títulos.
 
 Leyenda: **Estado** 🚦 (🔴 no empezado, 🟡 en progreso, 🟢 terminado).
 
@@ -22,9 +22,7 @@ Leyenda: **Estado** 🚦 (🔴 no empezado, 🟡 en progreso, 🟢 terminado).
 * Effective Java 3rd Ed
 * This is Lean: Resolving the efficiency paradox
 * Utopía para realistas
-
-
-_*(la lista sufrirá múltiples cambios a medida que agregue libros nuevos o que re-evalue mis preferencias)_
+* Menos es más
 
 ---
 
@@ -36,7 +34,6 @@ _*(la lista sufrirá múltiples cambios a medida que agregue libros nuevos o que
 |[**Modern software engineering**, de David Farley](https://www.goodreads.com/book/show/57345270-modern-software-engineering)|🟢|4️⃣⭐|
 |[**Get Your Hands Dirty on Clean Architecture 2nd Ed**, de Tom Hombergs](https://leanpub.com/get-your-hands-dirty-on-clean-architecture/)|🟢|4️⃣⭐|
 |[**A Philosophy of Software Design**, de John Ousterhout](https://www.goodreads.com/book/show/39996759-a-philosophy-of-software-design)|🟢|3️⃣⭐|
-|[**Extreme Programming Explained**, de Kent Beck y Cynthia Andres](https://www.goodreads.com/book/show/67833.Extreme_Programming_Explained)|🟡|🤷‍♀️🤷‍♀️|
 |[**Tidy First?**, de Kent Beck](https://www.goodreads.com/book/show/171691901-tidy-first)|🟡|🤷‍♀️🤷‍♀️|
 |[**Refactoring 2nd Ed**, de Martin Fowler](https://www.refactoring.com/)|🔴|🤷‍♀️🤷‍♀️|
 |[**Staff Engineer**, de Will Larson y Tanya Reilly](https://www.goodreads.com/book/show/56481725-staff-engineer)|🔴|🤷‍♀️🤷‍♀️|
@@ -67,6 +64,8 @@ _*(la lista sufrirá múltiples cambios a medida que agregue libros nuevos o que
 | Título, autor | 🚦 | Nota |
 |---------------|----|------|
 |[**This is Lean: Resolving the efficiency paradox**, de Nickas Modig](https://www.goodreads.com/book/show/17060202-this-is-lean)|🟢|5️⃣⭐|
+|[**Extreme Programming Explained**, de Kent Beck y Cynthia Andres](https://www.goodreads.com/book/show/67833.Extreme_Programming_Explained)|🟡|🤷‍♀️🤷‍♀️|
+|[**The Agile Samurai**, de Jonathan Rasmusson](https://www.goodreads.com/book/show/8248700-the-agile-samurai)|🔴|🤷‍♀️🤷‍♀️|
 
 ---
 
@@ -100,12 +99,12 @@ _*(la lista sufrirá múltiples cambios a medida que agregue libros nuevos o que
 | Título, autor | 🚦 | Nota |
 |---------------|----|------|
 |[**Utopía para realistas**, de Rutger Bregman](https://www.goodreads.com/book/show/34651610-utop-a-para-realistas)|🟢|5️⃣⭐|
+|[**Menos es más**, de Jason Hickel y Clara Mistral](https://www.goodreads.com/book/show/144573181-menos-es-m-s)|🟢|5️⃣⭐|
 |[**Al menos tienes trabajo**, de Naiara Puertas](https://www.goodreads.com/book/show/49656893-al-menos-tienes-trabajo)|🟢|4️⃣⭐|
 |[**Pensar en sistemas**, de Donella H. Meadows](https://www.goodreads.com/book/show/60861368-pensar-en-sistemas-un-manual-de-iniciaci-n)|🟢|4️⃣⭐|
 |[**Armas de destrucción matemática**, de Cathy O'Neil](https://www.goodreads.com/book/show/38338491-armas-de-destrucci-n-matem-tica)|🟢|4️⃣⭐|
 |[**Upgrade**, de M. Quintana y D. Alayón](https://www.goodreads.com/book/show/61211996)|🟢|4️⃣⭐|
 |[**Data Science**, de John D. Kelleher y Brendan Tierney](https://www.goodreads.com/book/show/36722689-data-science)|🟢|3️⃣⭐|
-|[**Menos es más**, de Jason Hickel y Clara Mistral](https://www.goodreads.com/book/show/144573181-menos-es-m-s)|🟡|🤷‍♀️🤷‍♀️|
 |[**The Art of Statistics: How to Learn from Data**, de David Spiegelhalter](https://www.goodreads.com/book/show/43722897-the-art-of-statistics)|🟡|🤷‍♀️🤷‍♀️|
 |[**El mundo sin fin**, de Jancovici](https://www.goodreads.com/book/show/63882950-el-mundo-sin-fin)|🔴|🤷‍♀️🤷‍♀️|
 |[**Cybersecurity**, de Duane C. Wilson](https://www.goodreads.com/book/show/59706156-cybersecurity)|🔴|🤷‍♀️🤷‍♀️|
