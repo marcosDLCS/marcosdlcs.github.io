@@ -46,7 +46,7 @@ Con este bloque de peguntas pretendo conocer cómo de engrasada está la maquina
 
 En este último bloque me reservo un conjunto de preguntas algo más controvertidas que en muchos casos las empresas ofertantes de empleo suelen 'evitar'.
 
-Como asistente a numerosos eventos del sector IT uno siempre encuentra que las compañías promocionan aquello de lo que se sienten orgullosas pero omiten deliberadamente información muy importante que puede llegar a impactar directamente en tu calidad de vida. 
+Como asistente a numerosos eventos del sector IT uno siempre encuentra que las compañías promocionan aquello de lo que se sienten orgullosas pero omiten deliberadamente información muy importante que puede llegar a impactar directamente en tu calidad de vida.
 
 De nada sirve que anuncies a bombo y platillo tus 7 clústers de Kubernetes si después tus empleados tienen equipos informáticos con 4GB de RAM o si van a recibir 5 llamadas cada madrugada cuando estén de _oncall_.
 
@@ -62,7 +62,7 @@ De nada sirve que anuncies a bombo y platillo tus 7 clústers de Kubernetes si d
 
 Por experiencia, muchas de estas preguntas descolocan y derivan en situaciones tensas e incluso desagradables durante las entrevistas. Mi objetivo es que manejéis ejemplos sobre qué preguntar cuando tengáis dudas fundadas en algún aspecto clave.
 
-En mi humilde opinión, habiendo estado en ambos lados de un proceso de contratación, la formulación de preguntas denota interés por el puesto y nunca debría ser considerada un ataque.
+En mi humilde opinión, habiendo estado en ambos lados de un proceso de contratación, la formulación de preguntas denota interés por el puesto y nunca debería ser considerada un ataque.
 
 {{< figure src="images/202401-meme-incidents.jpg" alt="Perrete sospecha que estás mintiendo sobre las incidencias reales que hay durante las guardias" >}}
 
