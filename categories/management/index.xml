@@ -14,7 +14,7 @@
       
       <guid>https://mdlcs.dev/posts/2024-01-tech-debt/</guid>
       <description>Tras unos cuantos años en el sector puedo decir que uno de los conceptos que siempre te acompaña es el de la deuda técnica. La pregunta que me hago siempre es: ¿sabemos realmente lo que ES y cómo identificarla?</description>
-      <content:encoded><![CDATA[<p><em><strong>Nota</strong>: Se trata de un artículo de opinión basado únicamente en mis conocimientos y experiencias a día de hoy (febrero 2024). Mi perspectiva sobre el mundo y el desarrollo de software cambia con el tiempo. Es un ejercicio de reflexión que no busca ofrecer soluciones concretas, sino presentar una visión del problema.</em></p>
+      <content:encoded><![CDATA[<p><em><strong>Nota</strong>: Se trata de un artículo de opinión basado únicamente en mis conocimientos y experiencias a día de hoy (inicios de 2024). Mi perspectiva sobre el mundo y el desarrollo de software cambia con el tiempo. Es un ejercicio de reflexión que no busca ofrecer soluciones concretas, sino presentar una visión del problema.</em></p>
 <h2 id="-introducción">🎬 Introducción</h2>
 <p>Nos encanta hablar de <strong>deuda técnica</strong>. Es un concepto propio, de nuestro nicho de conocimiento.</p>
 <p>Pertenezcas a la empresa a la que pertenezcas, sea cual sea el evento IT al que asistas, las conversaciones sobre deuda técnica están ahí, a la vuelta de la esquina, acechando, esperando atraparte.</p>
