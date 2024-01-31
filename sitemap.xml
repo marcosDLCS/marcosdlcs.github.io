@@ -2,10 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mdlcs.dev/posts/2024-01-interview-questions/</loc>
-    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://mdlcs.dev/categories/</loc>
+    <lastmod>2024-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mdlcs.dev/posts/2024-01-tech-debt/</loc>
+    <lastmod>2024-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mdlcs.dev/tags/management/</loc>
+    <lastmod>2024-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mdlcs.dev/categories/management/</loc>
+    <lastmod>2024-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mdlcs.dev/</loc>
+    <lastmod>2024-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mdlcs.dev/posts/</loc>
+    <lastmod>2024-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mdlcs.dev/tags/spanish/</loc>
+    <lastmod>2024-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mdlcs.dev/tags/</loc>
+    <lastmod>2024-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mdlcs.dev/tags/technology/</loc>
+    <lastmod>2024-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mdlcs.dev/categories/technology/</loc>
+    <lastmod>2024-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mdlcs.dev/posts/2024-01-interview-questions/</loc>
     <lastmod>2024-01-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mdlcs.dev/tags/interviews/</loc>
@@ -15,18 +42,6 @@
     <lastmod>2024-01-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mdlcs.dev/categories/job-seeking/</loc>
-    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mdlcs.dev/</loc>
-    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mdlcs.dev/posts/</loc>
-    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mdlcs.dev/tags/spanish/</loc>
-    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mdlcs.dev/tags/</loc>
     <lastmod>2024-01-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mdlcs.dev/search/</loc>
