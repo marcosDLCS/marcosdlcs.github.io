@@ -11,7 +11,7 @@ slug: "2024-01-tech-debt"
 draft: false
 ---
 
-_**Nota**: Se trata de un artículo de opinión basado únicamente en mis conocimientos y experiencias a día de hoy (febrero 2024). Mi perspectiva sobre el mundo y el desarrollo de software cambia con el tiempo. Es un ejercicio de reflexión que no busca ofrecer soluciones concretas, sino presentar una visión del problema._
+_**Nota**: Se trata de un artículo de opinión basado únicamente en mis conocimientos y experiencias a día de hoy (inicios de 2024). Mi perspectiva sobre el mundo y el desarrollo de software cambia con el tiempo. Es un ejercicio de reflexión que no busca ofrecer soluciones concretas, sino presentar una visión del problema._
 
 ## 🎬 Introducción
 
