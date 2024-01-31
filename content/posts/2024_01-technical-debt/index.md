@@ -2,13 +2,13 @@
 title: "El problema de la deuda (técnica)"
 description: "Tras unos cuantos años en el sector puedo decir que uno de los conceptos que siempre te acompaña es el de la deuda técnica. La pregunta que me hago siempre es: ¿sabemos realmente lo que ES y cómo identificarla?"
 tags: [ "technology", "management", "spanish" ]
-lastmod: 2024-02-01
-date: 2024-02-01
+lastmod: 2024-01-31
+date: 2024-01-31
 categories:
   - "technology"
   - "management"
-slug: "2024-02-tech-debt"
-draft: true
+slug: "2024-01-tech-debt"
+draft: false
 ---
 
 _**Nota**: Se trata de un artículo de opinión basado únicamente en mis conocimientos y experiencias a día de hoy (febrero 2024). Mi perspectiva sobre el mundo y el desarrollo de software cambia con el tiempo. Es un ejercicio de reflexión que no busca ofrecer soluciones concretas, sino presentar una visión del problema._
@@ -21,7 +21,7 @@ Pertenezcas a la empresa a la que pertenezcas, sea cual sea el evento IT al que 
 
 Se tiende a pensar que algo que está en boca de todos es materia conocida, bien definida y de dominio público. Pero en realidad con este término ocurre todo lo contrario, hay tantas cosas que podrían ser deuda técnica que el concepto ha ido perdiendo su esencia, enmascarando otros problemas reales que muchas veces nos avergüenza reconocer.
 
-{{< figure src="images/202402-banner-tech-debt.png" alt="Figura con gorro de copa y monóculo con los brazos levantados. Rótulo que reza: let's talk about technical debt" >}}
+{{< figure src="images/202401-banner-tech-debt.png" alt="Figura con gorro de copa y monóculo con los brazos levantados. Rótulo que reza: let's talk about technical debt" >}}
 
 ## 🙅‍♀️ Todo lo que NO es deuda técnica
 
@@ -47,7 +47,7 @@ Todo el mundo sabe (espero) que cuando comienzas un nuevo proyecto tendrás que 
 
 Por ello, tu estrategia de mantenimiento debería ser un pilar fundamental de tu organización. Si omites deliberadamente estos procesos de actualización con la típica frase de _"si funciona no lo toques"_ pero luego apresuras a tu equipo a actualizar vuestros servicios porque _"dice AWS que dejará de dar soporte a la tecnología X"_, el problema no es de deuda técnica, sino de cultura y modos de trabajo.
 
-{{< figure src="images/202402-banner-phone.png" alt="Conversación entre el equipo técnico y negocio en la que los primeros alertan de temas técnicos que arreglar y los segundos quieren hablar del ROI asociado" >}}
+{{< figure src="images/202401-banner-phone.png" alt="Conversación entre el equipo técnico y negocio en la que los primeros alertan de temas técnicos que arreglar y los segundos quieren hablar del ROI asociado" >}}
 
 ### 🎁 Código heredado
 
@@ -79,7 +79,7 @@ Como último punto quiero destacar como antipatrón de deuda técnica todas aque
 
 Y la justificación para alejar estas tareas del término "deuda técnica" es simple: en muchos casos dichas convenciones son una recomendación para mejorar la uniformidad del código (elección entre librerías similares, modo de diseñar una API, convenciones de nombres, capas y responsabilidades de la arquitectura), acciones que no presentan una mejora técnica per se, sino más bien una preferencia para dotar a nuestros proyectos de una mayor cohesión.
 
-{{< figure src="images/202402-banner-usual-suspects.png" alt="Imagen que muestra un muñeco de palo por cada una de las 5 secciones de listadas arriba. En la parte inferior hay una línea de puntos y un texto que dice: usual suspects" >}}
+{{< figure src="images/202401-banner-usual-suspects.png" alt="Imagen que muestra un muñeco de palo por cada una de las 5 secciones de listadas arriba. En la parte inferior hay una línea de puntos y un texto que dice: usual suspects" >}}
 
 ## 🧐 Entonces, ¿qué es la deuda técnica?
 
@@ -96,7 +96,7 @@ Ahora vayamos punto por punto repasando cada una de las características:
 
 El análisis de las características de la deuda técnica es importante, ya que de esa manera podremos anticiparnos a sus causas y encontrar soluciones. Tras reflexionar considero que hay tres orígenes comunes para este problema y tres soluciones obvias a dichas circunstancias:
 
-{{< figure src="images/202402-banner-problem-solution.png" alt="Diagrama que expone 3 problemas: falta de conocimiento, falta de tiempo y percepción de valor. Y tres soluciones: formación, mejoras organizativas y cultura de empresa" >}}
+{{< figure src="images/202401-banner-problem-solution.png" alt="Diagrama que expone 3 problemas: falta de conocimiento, falta de tiempo y percepción de valor. Y tres soluciones: formación, mejoras organizativas y cultura de empresa" >}}
 
 Mi objetivo es exponer el problema y crear un marco de comunicación, no aportar estrategias detalladas. Queda de tu mano y de la de tu equipo definir e impulsar las acciones y prácticas necesarias para no caer en el pozo de la deuda técnica.
 
