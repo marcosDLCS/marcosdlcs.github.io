@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>technology on mdlcs.dev</title>
+    <title>Technology on mdlcs.dev</title>
     <link>https://mdlcs.dev/categories/technology/</link>
-    <description>Recent content in technology on mdlcs.dev</description>
+    <description>Recent content in Technology on mdlcs.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
     <lastBuildDate>Wed, 31 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mdlcs.dev/categories/technology/index.xml" rel="self" type="application/rss+xml" />
@@ -14,8 +14,8 @@
       
       <guid>https://mdlcs.dev/posts/2024-01-tech-debt/</guid>
       <description>Tras unos cuantos años en el sector puedo decir que uno de los conceptos que siempre te acompaña es el de la deuda técnica. La pregunta que me hago siempre es: ¿sabemos realmente lo que ES y cómo identificarla?</description>
-      <content:encoded><![CDATA[<p><em><strong>Nota</strong>: Se trata de un artículo de opinión basado únicamente en mis conocimientos y experiencias a día de hoy (inicios de 2024). Mi perspectiva sobre el mundo y el desarrollo de software cambia con el tiempo. Es un ejercicio de reflexión que no busca ofrecer soluciones concretas, sino presentar una visión del problema.</em></p>
-<h2 id="-introducción">🎬 Introducción</h2>
+      <content:encoded><![CDATA[<p><em><strong>Nota</strong>: Se trata de un artículo de opinión basado en mis conocimientos y experiencias a día de hoy (2024). Mi perspectiva sobre el mundo y el desarrollo de software cambia con el tiempo. Es una reflexión que no busca ofrecer soluciones concretas, sino presentar una visión del problema.</em></p>
+<h2 id="-un-concepto-en-boca-de-todas">🎬 Un concepto en boca de todas</h2>
 <p>Nos encanta hablar de <strong>deuda técnica</strong>. Es un concepto propio, de nuestro nicho de conocimiento.</p>
 <p>Pertenezcas a la empresa a la que pertenezcas, sea cual sea el evento IT al que asistas, las conversaciones sobre deuda técnica están ahí, a la vuelta de la esquina, acechando, esperando atraparte.</p>
 <p>Se tiende a pensar que algo que está en boca de todos es materia conocida, bien definida y de dominio público. Pero en realidad con este término ocurre todo lo contrario, hay tantas cosas que podrían ser deuda técnica que el concepto ha ido perdiendo su esencia, enmascarando otros problemas reales que muchas veces nos avergüenza reconocer.</p>
