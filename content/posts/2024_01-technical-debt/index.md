@@ -11,9 +11,9 @@ slug: "2024-01-tech-debt"
 draft: false
 ---
 
-_**Nota**: Se trata de un artículo de opinión basado únicamente en mis conocimientos y experiencias a día de hoy (inicios de 2024). Mi perspectiva sobre el mundo y el desarrollo de software cambia con el tiempo. Es un ejercicio de reflexión que no busca ofrecer soluciones concretas, sino presentar una visión del problema._
+_**Nota**: Se trata de un artículo de opinión basado en mis conocimientos y experiencias a día de hoy (2024). Mi perspectiva sobre el mundo y el desarrollo de software cambia con el tiempo. Es una reflexión que no busca ofrecer soluciones concretas, sino presentar una visión del problema._
 
-## 🎬 Introducción
+## 🎬 Un concepto en boca de todas
 
 Nos encanta hablar de **deuda técnica**. Es un concepto propio, de nuestro nicho de conocimiento.
 

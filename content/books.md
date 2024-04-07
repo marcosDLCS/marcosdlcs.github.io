@@ -109,3 +109,4 @@ Leyenda: **Estado** 🚦 (🔴 no empezado, 🟡 en progreso, 🟢 terminado).
 |[**El mundo sin fin**, de Jancovici](https://www.goodreads.com/book/show/63882950-el-mundo-sin-fin)|🔴|🤷‍♀️🤷‍♀️|
 |[**Cybersecurity**, de Duane C. Wilson](https://www.goodreads.com/book/show/59706156-cybersecurity)|🔴|🤷‍♀️🤷‍♀️|
 |[**El economista camuflado**, de Tim Harford](https://www.goodreads.com/book/show/42102458-el-economista-camuflado-la-economia-de-las-peque-as-cosas)|🔴|🤷‍♀️🤷‍♀️|
+|[**Good Strategy Bad Strategy: The Difference and Why It Matters**, de Richard P. Rumelt](https://www.goodreads.com/book/show/11721966-good-strategy-bad-strategy)|🔴|🤷‍♀️🤷‍♀️|
