@@ -42,7 +42,7 @@ La paradoja de la documentación no queda aquí. Sabemos que en determinados esc
 
 Sin embargo, si interpelas directamente a tus compañeros y compañeras muy posiblemente no encuentres a demasiados que te digan que _"la documentación es inútil"_.
 
-De hecho, seguro que te has encontrado varias veces piezas de documentación manifiestamente inservibles pero que el equipo no quiere eliminar porque _"a lo mejor le sirve a alguien o están allí por alguna razón"_. Una especie de **'sindrome de estocolmo digital'** en el que generamos apego por algo que detestamos o que sabemos inútil.
+De hecho, seguro que te has encontrado varias veces piezas de documentación manifiestamente inservibles pero que el equipo no quiere eliminar porque **_"a lo mejor le sirve a alguien o están allí por alguna razón"_**. Una especie de **'Síndrome de Estocolmo digital'** en el que generamos apego por algo que detestamos o que sabemos inútil.
 
 Esto me lleva a pensar que, de una manera u otra, **apreciamos el valor intrínseco de la documentación pero no la manera de obtener dicho valor**.
 
