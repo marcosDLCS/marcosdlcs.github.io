@@ -18,8 +18,8 @@
 <h2 id="-no-me-importa-documentar">😲 No me importa documentar</h2>
 <p>Hace unos años durante una reunión rutinaria de equipo, probablemente en una <em>daily</em>, pronuncié estas controvertidas palabras sobre la finalización de un entregable: <strong><em>&ldquo;no os preocupéis, yo me encargo, no me importa documentar el proceso&rdquo;</em></strong>.</p>
 <p>En ese momento noté en mis compañeros una mezcla de alivio e incredulidad, y se sucedieron muecas de aprobación mezcladas con comentarios del tipo: <strong><em>&ldquo;perfecto, porque yo ODIO documentar&rdquo;</em></strong>.</p>
-<p>Es un recuerdo formado por más de una experiencia al respecto pero supongo que ya me entendéis. <strong>Documentar no gusta, tiene fama de labor tediosa</strong> y normalmente suele ser el colofón a un trabajo más o menos complejo que el equipo tiene muchas ganas de entregar o simplemente dar por finalizado. Es una barrera ante nuestro afán de marcar algo como completado.</p>
-<p>La realidad es que en ciertos escenarios la documentación no es ni siquiera opcional, pero determinadas corrientes de pensamiento nos han hecho ver este acto casi con desprecio, como un apéndice aburrido a nuestro trabajo creativo como desarrolladores de <em>software</em>.</p>
+<p>Es obviamente un recuerdo formado por más de una experiencia al respecto pero supongo que me entendéis. <strong>Documentar no gusta, tiene fama de labor tediosa</strong> y normalmente se desarrolla como colofón a un trabajo más o menos complejo que el equipo tiene muchas ganas de entregar o simplemente dar por finalizado. Es una barrera ante nuestro afán de marcar algo como completado.</p>
+<p>La realidad es que en ciertos escenarios la documentación no es ni siquiera opcional, pero determinadas corrientes de pensamiento nos han hecho ver este acto casi con desprecio, como un apéndice aburrido a nuestro trabajo creativo como desarrolladores de <em>software</em> o, en ocasiones, como una acción defensiva que nos cataloga como malos profesionales.</p>
 <p>Mi intención con esta entrada (o serie de entradas, aún no lo he decidido) es desmitificar el proceso y ver la documentación con otros ojos. Porque uno puede estar colgado de una cruz pero decidir silbar.</p>
 <figure>
     <img loading="lazy" src="images/202404-conspiracy-guy.jpg"
@@ -51,7 +51,7 @@
 </figure>
 
 <h2 id="-en-resumen">➕ En resumen</h2>
-<p>Nuestra percepción sobre la documentación en el desarrollo de software está algo distorsionada.</p>
+<p>Nuestra percepción sobre la documentación en el desarrollo de <em>software</em> está algo distorsionada.</p>
 <p>Aunque muchos la consideran tediosa, en realidad es esencial en momentos clave, como en la integración de nuevos empleados o durante incidentes críticos. Es curioso cómo, <strong>aunque reconocemos su importancia, pocos están dispuestos a admitirlo abiertamente</strong>.</p>
 <p>Y tú, ¿de qué equipo eres?</p>
 ]]></content:encoded>
