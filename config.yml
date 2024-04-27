@@ -13,19 +13,16 @@ params:
         
         {y soy desarrollador de software}
     Content: "
-      \  ☕‏‏‎ ‎ He desarrollado mi carrera en el ecosistema JVM / Java /
-      Spring y ahora trabajo con lenguajes como Kotlin y tecnologías como
-      Postgres, Apache Kafka o Redis.
+      \  ☕‏‏‎ ‎ He desarrollado mi carrera con Java / Spring 
+      y ahora trabajo con lenguajes como Kotlin y tecnologías como Postgres, Kafka o Redis.
 
 
       \  🧰‏‏‎ ‎ La automatización, el CI/CD y el cloud me encantan; por
-      ello me escucharás a menudo hablar de Gitlab, Jenkins, Sonar o plataformas
-      como AWS o Azure.
+      ello me escucharás a menudo hablar de Github Actions, Sonar o proveedores como AWS.
 
 
-      \  🦄 ‎ Me gustan mucho los temas relacionados con arquitectura y
-      buenas prácticas así que no dudes en charlar conmigo sobre DDD,
-      arquitectura hexagonal o SOLID.
+      \  🦄 ‎ Me gustan mucho los temas relacionados con arquitectura y buenas prácticas 
+      así que no dudes en charlar conmigo sobre arquitecturas limpias, SOLID o DDD.
 
 
       \  🤯‏‏‎ ‎  Soy un apasionado de la tecnología aparte de ávido
@@ -39,8 +36,6 @@ params:
 
       \  "
   socialIcons:
-    - name: twitter
-      url: https://twitter.com/marcosDLCS
     - name: linkedin
       url: https://www.linkedin.com/in/marcosdlcs/
     - name: github

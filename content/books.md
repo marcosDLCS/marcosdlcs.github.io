@@ -78,7 +78,7 @@ Leyenda: **Estado** 🚦 (🔴 no empezado, 🟡 en progreso, 🟢 terminado).
 |[**Nuestra mente nos engaña**, de Helena Matute](https://www.goodreads.com/book/show/51107412-nuestra-mente-nos-enga-a)|🟢|3️⃣⭐|
 |[**Mide lo que importa**, de John Doerr](https://www.goodreads.com/book/show/42419870-mide-lo-que-importa)|🟢|3️⃣⭐|
 |[**Give and Take**, de Adam M. Grant](https://www.goodreads.com/book/show/16158498-give-and-take)|🔴|🤷‍♀️🤷‍♀️|
-|[**Cómo ganar amigos y influir sobre las personas**, de Dale Carnegie](https://www.goodreads.com/book/show/730797.C_mo_ganar_amigos_y_influir_sobre_las_personas)|🔴|🤷‍♀️🤷‍♀️|
+|[**Cómo ganar amigos e influir sobre las personas**, de Dale Carnegie](https://www.goodreads.com/book/show/730797.C_mo_ganar_amigos_y_influir_sobre_las_personas)|🔴|🤷‍♀️🤷‍♀️|
 |[**Pensar rápido, pensar despacio**, de Daniel Kahneman](https://www.goodreads.com/book/show/38228086-pensar-r-pido-pensar-despacio)|🔴|🤷‍♀️🤷‍♀️|
 |[**Engineering management for the rest of us**, de Sarah Drasner](https://www.goodreads.com/book/show/58502800-engineering-management-for-the-rest-of-us)|🔴|🤷‍♀️🤷‍♀️|
 
