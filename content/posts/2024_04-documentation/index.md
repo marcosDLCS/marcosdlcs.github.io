@@ -18,9 +18,9 @@ Hace unos años durante una reunión rutinaria de equipo, probablemente en una _
 
 En ese momento noté en mis compañeros una mezcla de alivio e incredulidad, y se sucedieron muecas de aprobación mezcladas con comentarios del tipo: **_"perfecto, porque yo ODIO documentar"_**.
 
-Es un recuerdo formado por más de una experiencia al respecto pero supongo que ya me entendéis. **Documentar no gusta, tiene fama de labor tediosa** y normalmente suele ser el colofón a un trabajo más o menos complejo que el equipo tiene muchas ganas de entregar o simplemente dar por finalizado. Es una barrera ante nuestro afán de marcar algo como completado.
+Es obviamente un recuerdo formado por más de una experiencia al respecto pero supongo que me entendéis. **Documentar no gusta, tiene fama de labor tediosa** y normalmente se desarrolla como colofón a un trabajo más o menos complejo que el equipo tiene muchas ganas de entregar o simplemente dar por finalizado. Es una barrera ante nuestro afán de marcar algo como completado.
 
-La realidad es que en ciertos escenarios la documentación no es ni siquiera opcional, pero determinadas corrientes de pensamiento nos han hecho ver este acto casi con desprecio, como un apéndice aburrido a nuestro trabajo creativo como desarrolladores de _software_.
+La realidad es que en ciertos escenarios la documentación no es ni siquiera opcional, pero determinadas corrientes de pensamiento nos han hecho ver este acto casi con desprecio, como un apéndice aburrido a nuestro trabajo creativo como desarrolladores de _software_ o, en ocasiones, como una acción defensiva que nos cataloga como malos profesionales.
 
 Mi intención con esta entrada (o serie de entradas, aún no lo he decidido) es desmitificar el proceso y ver la documentación con otros ojos. Porque uno puede estar colgado de una cruz pero decidir silbar.
 
@@ -52,7 +52,7 @@ Por ello en las siguientes entradas (sí, al final habrá más de una para que e
 
 ## ➕ En resumen
 
-Nuestra percepción sobre la documentación en el desarrollo de software está algo distorsionada.
+Nuestra percepción sobre la documentación en el desarrollo de _software_ está algo distorsionada.
 
 Aunque muchos la consideran tediosa, en realidad es esencial en momentos clave, como en la integración de nuevos empleados o durante incidentes críticos. Es curioso cómo, **aunque reconocemos su importancia, pocos están dispuestos a admitirlo abiertamente**.
 
