@@ -6,7 +6,57 @@
     <description>Recent content in Technology on mdlcs.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
-    <lastBuildDate>Wed, 31 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mdlcs.dev/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mdlcs.dev/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>No te olvides de la documentación (I)</title>
+      <link>https://mdlcs.dev/posts/2024-04-documentation-i/</link>
+      <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://mdlcs.dev/posts/2024-04-documentation-i/</guid>
+      <description>Probablemente la palabra &amp;#39;documentación&amp;#39; te cause escalofríos y te recuerde momentos tediosos que se interpusieron en tu camino a la felicidad. Esta serie de entradas son una oda a la buena documentación y una excusa para descubrir por qué la detestamos.</description>
+      <content:encoded><![CDATA[<p><em><strong>Nota</strong>: Se trata de un artículo de opinión basado en mis conocimientos y experiencias a día de hoy (2024). Mi perspectiva sobre la industria del software cambia con el tiempo. Es una reflexión que no busca ofrecer soluciones concretas, sino presentar una visión del problema.</em></p>
+<h2 id="-no-me-importa-documentar">😲 No me importa documentar</h2>
+<p>Hace unos años durante una reunión rutinaria de equipo, probablemente en una <em>daily</em>, pronuncié estas controvertidas palabras sobre la finalización de un entregable: <strong><em>&ldquo;no os preocupéis, yo me encargo, no me importa documentar el proceso&rdquo;</em></strong>.</p>
+<p>En ese momento noté en mis compañeros una mezcla de alivio e incredulidad, y se sucedieron muecas de aprobación mezcladas con comentarios del tipo: <strong><em>&ldquo;perfecto, porque yo ODIO documentar&rdquo;</em></strong>.</p>
+<p>Es un recuerdo formado por más de una experiencia al respecto pero supongo que ya me entendéis. <strong>Documentar no gusta, tiene fama de labor tediosa</strong> y normalmente suele ser el colofón a un trabajo más o menos complejo que el equipo tiene muchas ganas de entregar o simplemente dar por finalizado. Es una barrera ante nuestro afán de marcar algo como completado.</p>
+<p>La realidad es que en ciertos escenarios la documentación no es ni siquiera opcional, pero determinadas corrientes de pensamiento nos han hecho ver este acto casi con desprecio, como un apéndice aburrido a nuestro trabajo creativo como desarrolladores de <em>software</em>.</p>
+<p>Mi intención con esta entrada (o serie de entradas, aún no lo he decidido) es desmitificar el proceso y ver la documentación con otros ojos. Porque uno puede estar colgado de una cruz pero decidir silbar.</p>
+<figure>
+    <img loading="lazy" src="images/202404-conspiracy-guy.jpg"
+         alt="Meme en el que aparece una persona con aspecto de pertubado mental. La frase dice: &#39;Dejadme a mi que documente la historia de usuario&#39;"/> 
+</figure>
+
+<h2 id="-cuándo-nos-acordamos-de-la-documentación">🚨 ¿Cuándo nos acordamos de la documentación?</h2>
+<p>Detestamos la documentación pero ella, sin rencor, siempre aparece para salvarnos en estas situaciones tan cotidianas: <strong>cuando alguien nuevo llega, cuando alguien importante se va o cuando suena el teléfono rojo</strong>:</p>
+<ul>
+<li>
+<p><strong>Onboarding</strong>: Sobre este punto hay muchos y muy buenos artículos y la buena documentación sólo es uno de los factores de éxito. Tras mis últimos procesos de incorporación puedo decir que las piezas de documentación más útiles han sido los <strong>organigramas de empresa</strong>, los <strong><em>handbooks</em> actualizados</strong> sobre el día a día (vacaciones y ausencias, planes de carrera, etc.) y las <strong>guías concisas de preparación de entornos</strong> u obtención de crendenciales. Parecen temas muy comunes pero creedme que hay mundos de distancia entre unas compañías y otras.</p>
+</li>
+<li>
+<p><strong>Marcha de compañeros a otros equipos o empresas</strong>: En estos casos las alertas se activan normalmente de parte de los gestores o <em>managers</em>. Siempre he notado en estos casos <strong>temores infundados sobre personas que con su marcha puedan llevarse consigo cierta información importante</strong> que no está redactada en ningún lugar. Si te pasa o ha pasado, es una mala señal, y no vas a solucionarlo escribiendo páginas y páginas en Confluence a última hora. Más adelante hablaré de cómo protegerse ante estas situaciones.</p>
+</li>
+<li>
+<p><strong>Incidencias o pérdidas de servicio</strong>: Este punto es crucial porque suele ser normal que los equipos de desarrollo no tengan una experiencia perfectamente uniforme y en periodos vacacionales o bajas prolongadas de personal clave puedes encontrarte con <strong>momentos en los que aquella persona que lo solucionaba todo no esté presente</strong>. Otra bandera roja si me lo permitís, pero que tiene arreglo más allá de eternos manuales con prodecimientos de arranque, <em>rollback</em> o resolución de incidencias.</p>
+</li>
+</ul>
+<h2 id="-siempre-rechazamos-deliberadamente-lo-que-no-nos-motiva">🙅 Siempre rechazamos deliberadamente lo que no nos motiva</h2>
+<p>La paradoja de la documentación no queda aquí. Sabemos que en determinados escenarios, como los que he listado en el punto anterior, es fundamental.</p>
+<p>Sin embargo, si interpelas directamente a tus compañeros y compañeras muy posiblemente no encuentres a demasiados que te digan que <em>&ldquo;la documentación es inútil&rdquo;</em>.</p>
+<p>De hecho, seguro que te has encontrado varias veces piezas de documentación manifiestamente inservibles pero que el equipo no quiere eliminar porque <em>&ldquo;a lo mejor le sirve a alguien o están allí por alguna razón&rdquo;</em>. Una especie de <strong>&lsquo;sindrome de estocolmo digital&rsquo;</strong> en el que generamos apego por algo que detestamos o que sabemos inútil.</p>
+<p>Esto me lleva a pensar que, de una manera u otra, <strong>apreciamos el valor intrínseco de la documentación pero no la manera de obtener dicho valor</strong>.</p>
+<p>Por ello en las siguientes entradas (sí, al final habrá más de una para que el texto no sea un ladrillo incomestible) intentaré hablar de los mitos asociados a la documentación y sobre alguna que otra técnica para hacer del proceso una travesía algo menos desagradable.</p>
+<figure>
+    <img loading="lazy" src="images/202404-devs-conversation.png"
+         alt="Conversación entre un desarrollador con experiencia y un junior en el que el primero le dice al segundo que no sabe por qué existe determinado documento en la plataforma pero que no lo toque, no vaya a ser..."/> 
+</figure>
+
+<h2 id="-en-resumen">➕ En resumen</h2>
+<p>Nuestra percepción sobre la documentación en el desarrollo de software está algo distorsionada.</p>
+<p>Aunque muchos la consideran tediosa, en realidad es esencial en momentos clave, como en la integración de nuevos empleados o durante incidentes críticos. Es curioso cómo, <strong>aunque reconocemos su importancia, pocos están dispuestos a admitirlo abiertamente</strong>.</p>
+<p>Y tú, ¿de qué equipo eres?</p>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>El problema de la deuda (técnica)</title>
       <link>https://mdlcs.dev/posts/2024-01-tech-debt/</link>
@@ -14,7 +64,7 @@
       
       <guid>https://mdlcs.dev/posts/2024-01-tech-debt/</guid>
       <description>Tras unos cuantos años en el sector puedo decir que uno de los conceptos que siempre te acompaña es el de la deuda técnica. La pregunta que me hago siempre es: ¿sabemos realmente lo que ES y cómo identificarla?</description>
-      <content:encoded><![CDATA[<p><em><strong>Nota</strong>: Se trata de un artículo de opinión basado en mis conocimientos y experiencias a día de hoy (2024). Mi perspectiva sobre el mundo y el desarrollo de software cambia con el tiempo. Es una reflexión que no busca ofrecer soluciones concretas, sino presentar una visión del problema.</em></p>
+      <content:encoded><![CDATA[<p><em><strong>Nota</strong>: Se trata de un artículo de opinión basado en mis conocimientos y experiencias a día de hoy (2024). Mi perspectiva sobre la industria del software cambia con el tiempo. Es una reflexión que no busca ofrecer soluciones concretas, sino presentar una visión del problema.</em></p>
 <h2 id="-un-concepto-en-boca-de-todas">🎬 Un concepto en boca de todas</h2>
 <p>Nos encanta hablar de <strong>deuda técnica</strong>. Es un concepto propio, de nuestro nicho de conocimiento.</p>
 <p>Pertenezcas a la empresa a la que pertenezcas, sea cual sea el evento IT al que asistas, las conversaciones sobre deuda técnica están ahí, a la vuelta de la esquina, acechando, esperando atraparte.</p>
