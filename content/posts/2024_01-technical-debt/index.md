@@ -1,5 +1,5 @@
 ---
-title: "El problema de la deuda (técnica)"
+title: "El problema de la 'deuda técnica'"
 description: "Tras unos cuantos años en el sector puedo decir que uno de los conceptos que siempre te acompaña es el de la deuda técnica. La pregunta que me hago siempre es: ¿sabemos realmente lo que ES y cómo identificarla?"
 tags: [ "technology", "management", "spanish" ]
 lastmod: 2024-01-31

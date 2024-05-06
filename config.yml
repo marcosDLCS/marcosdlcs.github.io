@@ -42,6 +42,8 @@ params:
       url: https://github.com/marcosDLCS
     - name: telegram
       url: https://t.me/marcosDLCS  
+    - name: twitter
+      url: https://twitter.com/marcosDLCS 
 outputs:
   home:
     - HTML
@@ -58,10 +60,10 @@ menu:
       url: /mentoring
       weight: 2  
     - identifier: more-content
-      name: Más contenido
+      name: + Contenido
       url: /more-content
       weight: 3
     - identifier: search
-      name: Buscar
+      name: 🔎
       url: /search
       weight: 4
