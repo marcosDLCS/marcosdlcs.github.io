@@ -19,5 +19,5 @@ https://gohugobrasil.netlify.app/content-management/front-matter/
 
 == Contact
 
-* Twitter: https://twitter.com/marcosDLCS
 * LinkedIn: https://www.linkedin.com/in/marcosdlcs/
+* Telegram: https://t.me/marcosDLCS 

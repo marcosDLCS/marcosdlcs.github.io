@@ -4,6 +4,10 @@ title: "Más contenido"
 
 ## 📙 TeachTech
 
+**(No habrá edición de TeachTech 2024: [anuncio](https://www.teacht3ch.com/blog/no-edicion-2024))** 😢
+
+---
+
 TeachTech es una **iniciativa sin ánimo de lucro** en la que varios profesionales del sector nos reunimos y organizamos para **enseñar a programar desde cero** a personas con pocos o nulos conocimientos en la materia que buscan nuevos retos. Los contenidos del curso están relacionados con el ecosistema web: HTML, CSS y Javascript.
 
 Puedes echar un vistazo a [**nuestra web**](https://www.teacht3ch.com/) si quieres. En ella en ocasiones escribo alguna entrada que pueda ser útil a nuestros alumnos y alumnas. 👇
