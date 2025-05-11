@@ -57,3 +57,7 @@ Nuestra percepción sobre la documentación en el desarrollo de _software_ está
 Aunque muchos la consideran tediosa, en realidad es esencial en momentos clave, como en la integración de nuevos empleados o durante incidentes críticos. Es curioso cómo, **aunque reconocemos su importancia, pocos están dispuestos a admitirlo abiertamente**.
 
 Y tú, ¿de qué equipo eres?
+
+### Otras entradas
+
+- [No te olvides de la documentación (II)](https://mdlcs.dev/posts/2025-05-documentation-ii/)
