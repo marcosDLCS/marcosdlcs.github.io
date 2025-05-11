@@ -7,7 +7,7 @@ date: 2025-05-11
 categories:
   - "technology"
 slug: "2025-05-documentation-ii"
-draft: true
+draft: false
 ---
 
 _**Nota**: Se trata de un artículo de opinión basado en mis conocimientos y experiencias a día de hoy (2024). Mi perspectiva sobre el mundo y el desarrollo de software cambia con el tiempo. Es una reflexión que no busca ofrecer soluciones concretas, sino presentar una visión del problema._

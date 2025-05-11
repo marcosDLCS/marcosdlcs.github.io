@@ -2,7 +2,8 @@ baseURL: https://mdlcs.dev/
 languageCode: es-ES
 title: mdlcs.dev
 theme: PaperModX
-paginate: 10
+pagination:
+  pagerSize:  10
 minify:
   disableXML: true
   minifyOutput: true
