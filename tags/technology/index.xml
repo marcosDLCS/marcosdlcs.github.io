@@ -14,8 +14,7 @@
       
       <guid>https://mdlcs.dev/posts/2025-05-documentation-ii/</guid>
       <description>Continuamos desmitificando la documentación de software. En esta segunda parte exploramos qué significa realmente documentar, analizamos sus diversos tipos y cuestionamos los mitos que nos han llevado a rechazarla sistemáticamente.</description>
-      <content:encoded><![CDATA[<p><em><strong>Nota</strong>: Se trata de un artículo de opinión basado en mis conocimientos y experiencias a día de hoy (2024). Mi perspectiva sobre el mundo y el desarrollo de software cambia con el tiempo. Es una reflexión que no busca ofrecer soluciones concretas, sino presentar una visión del problema.</em></p>
-<h2 id="-tenemos-claro-que-no-nos-gusta-pero-qué-es-documentar">🤷🏽‍♀️ Tenemos claro que no nos gusta pero, ¿qué es documentar?</h2>
+      <content:encoded><![CDATA[<h2 id="-tenemos-claro-que-no-nos-gusta-pero-qué-es-documentar">🤷🏽‍♀️ Tenemos claro que no nos gusta pero, ¿qué es documentar?</h2>
 <p>En la entrada anterior hablé de la visión distorsionada que a veces tenemos sobre la tarea de documentar. Ese doble filo en el que <strong>admitimos su utilidad en momentos clave pero que nos hace rechazarla</strong> por el mero hecho de no tener interiorizadas maneras de trabajar que incluyan su creación y evolución como uno de los pilares de nuestro día a día.</p>
 <p>Con el paso de los años he estado en múltiples discusiones al respecto de este tema, pero últimamente me asalta una pregunta: <strong>¿hemos consensuado realmente lo que ES documentar?</strong> Personalmente no tengo una respuesta cien por cien absoluta, por ello en este artículo me centraré en explicar los distintos tipos de documentación que existen y todos aquellos mitos asociados a su creación y mantenimiento.</p>
 <figure>
@@ -109,8 +108,7 @@
       
       <guid>https://mdlcs.dev/posts/2024-04-documentation-i/</guid>
       <description>Probablemente la palabra &amp;#39;documentación&amp;#39; te cause escalofríos y te recuerde momentos tediosos que se interpusieron en tu camino a la felicidad. Esta serie de entradas son una oda a la buena documentación y una excusa para descubrir por qué la detestamos.</description>
-      <content:encoded><![CDATA[<p><em><strong>Nota</strong>: Se trata de un artículo de opinión basado en mis conocimientos y experiencias a día de hoy (2024). Mi perspectiva sobre la industria del software cambia con el tiempo. Es una reflexión que no busca ofrecer soluciones concretas, sino presentar una visión del problema.</em></p>
-<h2 id="-no-me-importa-documentar">😲 No me importa documentar</h2>
+      <content:encoded><![CDATA[<h2 id="-no-me-importa-documentar">😲 No me importa documentar</h2>
 <p>Hace unos años durante una reunión rutinaria de equipo, probablemente en una <em>daily</em>, pronuncié estas controvertidas palabras sobre la finalización de un entregable: <strong><em>&ldquo;no os preocupéis, yo me encargo, no me importa documentar el proceso&rdquo;</em></strong>.</p>
 <p>En ese momento noté en mis compañeros una mezcla de alivio e incredulidad, y se sucedieron muecas de aprobación mezcladas con comentarios del tipo: <strong><em>&ldquo;perfecto, porque yo ODIO documentar&rdquo;</em></strong>.</p>
 <p>Es obviamente un recuerdo formado por más de una experiencia al respecto pero supongo que me entendéis. <strong>Documentar no gusta, tiene fama de labor tediosa</strong> y normalmente se desarrolla como colofón a un trabajo más o menos complejo que el equipo tiene muchas ganas de entregar o simplemente dar por finalizado. Es una barrera ante nuestro afán de marcar algo como completado.</p>
@@ -163,8 +161,7 @@
       
       <guid>https://mdlcs.dev/posts/2024-01-tech-debt/</guid>
       <description>Tras unos cuantos años en el sector puedo decir que uno de los conceptos que siempre te acompaña es el de la deuda técnica. La pregunta que me hago siempre es: ¿sabemos realmente lo que ES y cómo identificarla?</description>
-      <content:encoded><![CDATA[<p><em><strong>Nota</strong>: Se trata de un artículo de opinión basado en mis conocimientos y experiencias a día de hoy (2024). Mi perspectiva sobre la industria del software cambia con el tiempo. Es una reflexión que no busca ofrecer soluciones concretas, sino presentar una visión del problema.</em></p>
-<h2 id="-un-concepto-en-boca-de-todas">🎬 Un concepto en boca de todas</h2>
+      <content:encoded><![CDATA[<h2 id="-un-concepto-en-boca-de-todas">🎬 Un concepto en boca de todas</h2>
 <p>Nos encanta hablar de <strong>deuda técnica</strong>. Es un concepto propio, de nuestro nicho de conocimiento.</p>
 <p>Pertenezcas a la empresa a la que pertenezcas, sea cual sea el evento IT al que asistas, las conversaciones sobre deuda técnica están ahí, a la vuelta de la esquina, acechando, esperando atraparte.</p>
 <p>Se tiende a pensar que algo que está en boca de todos es materia conocida, bien definida y de dominio público. Pero en realidad con este término ocurre todo lo contrario, hay tantas cosas que podrían ser deuda técnica que el concepto ha ido perdiendo su esencia, enmascarando otros problemas reales que muchas veces nos avergüenza reconocer.</p>
