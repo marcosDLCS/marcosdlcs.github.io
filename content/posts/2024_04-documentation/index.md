@@ -2,15 +2,13 @@
 title: "No te olvides de la documentación (I)"
 description: "Probablemente la palabra 'documentación' te cause escalofríos y te recuerde momentos tediosos que se interpusieron en tu camino a la felicidad. Esta serie de entradas son una oda a la buena documentación y una excusa para descubrir por qué la detestamos."
 tags: [ "technology", "spanish" ]
-lastmod: 2024-04-27
+lastmod: 2025-05-11
 date: 2024-04-27
 categories:
   - "technology"
 slug: "2024-04-documentation-i"
 draft: false
 ---
-
-_**Nota**: Se trata de un artículo de opinión basado en mis conocimientos y experiencias a día de hoy (2024). Mi perspectiva sobre la industria del software cambia con el tiempo. Es una reflexión que no busca ofrecer soluciones concretas, sino presentar una visión del problema._
 
 ## 😲 No me importa documentar
 

@@ -10,8 +10,6 @@ slug: "2025-05-documentation-ii"
 draft: false
 ---
 
-_**Nota**: Se trata de un artículo de opinión basado en mis conocimientos y experiencias a día de hoy (2024). Mi perspectiva sobre el mundo y el desarrollo de software cambia con el tiempo. Es una reflexión que no busca ofrecer soluciones concretas, sino presentar una visión del problema._
-
 ## 🤷🏽‍♀️ Tenemos claro que no nos gusta pero, ¿qué es documentar?
 
 En la entrada anterior hablé de la visión distorsionada que a veces tenemos sobre la tarea de documentar. Ese doble filo en el que **admitimos su utilidad en momentos clave pero que nos hace rechazarla** por el mero hecho de no tener interiorizadas maneras de trabajar que incluyan su creación y evolución como uno de los pilares de nuestro día a día.

@@ -2,7 +2,7 @@
 title: "El problema de la 'deuda técnica'"
 description: "Tras unos cuantos años en el sector puedo decir que uno de los conceptos que siempre te acompaña es el de la deuda técnica. La pregunta que me hago siempre es: ¿sabemos realmente lo que ES y cómo identificarla?"
 tags: [ "technology", "management", "spanish" ]
-lastmod: 2024-01-31
+lastmod: 2025-05-11
 date: 2024-01-31
 categories:
   - "technology"
@@ -10,8 +10,6 @@ categories:
 slug: "2024-01-tech-debt"
 draft: false
 ---
-
-_**Nota**: Se trata de un artículo de opinión basado en mis conocimientos y experiencias a día de hoy (2024). Mi perspectiva sobre la industria del software cambia con el tiempo. Es una reflexión que no busca ofrecer soluciones concretas, sino presentar una visión del problema._
 
 ## 🎬 Un concepto en boca de todas
 

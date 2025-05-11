@@ -2,7 +2,7 @@
 title: "¿Tienes alguna pregunta para nosotros?"
 description: "En todo proceso de entrevistas siempre llega el momento crucial en el que puedes (debes) realizar preguntas para conocer mejor a tu futuro empleador. Esta es la lista que siempre tengo a mano para inspirarme a la hora de preguntar y así descubrir los puntos fuertes y débiles de la oferta a la que me presento."
 tags: [ "job-seeking", "interviews", "spanish" ]
-lastmod: 2024-01-05
+lastmod: 2025-05-11
 date: 2024-01-05
 categories:
   - "job-seeking"
