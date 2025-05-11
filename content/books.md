@@ -40,6 +40,15 @@ Leyenda: **Estado** 🚦 (🔴 no empezado, 🟡 en progreso, 🟢 terminado).
 
 ---
 
+## IA
+
+| Título, autor | 🚦 | Nota |
+|---------------|----|------|
+|[**Inteligencia artificial: Guía para seres pensantes**, de Melanie Mitchell](https://www.goodreads.com/book/show/210808890-inteligencia-artificial)|🟢|4️⃣⭐|
+|[**Armas de destrucción matemática**, de Cathy O'Neil](https://www.goodreads.com/book/show/38338491-armas-de-destrucci-n-matem-tica)|🟢|4️⃣⭐|
+
+---
+
 ## Java y Kotlin
 
 | Título, autor | 🚦 | Nota |
@@ -109,6 +118,7 @@ Leyenda: **Estado** 🚦 (🔴 no empezado, 🟡 en progreso, 🟢 terminado).
 |[**Neoliberalismo: Una breve introducción**, de Manfred B. Steger y Ravi K. Roy](https://www.goodreads.com/book/show/60041272-neoliberalismo)|🔴|🤷‍♀️🤷‍♀️|
 |[**Historia de España contada para escépticos**, de Juan Eslava Galán](https://www.goodreads.com/book/show/6922282-historia-de-espa-a-contada-para-esc-pticos)|🔴|🤷‍♀️🤷‍♀️|
 |[**A libertarian walks into a bear: The utopian plot to liberate an american town**, de Matthew Hongoltz-Hetling](https://www.goodreads.com/book/show/50358538-a-libertarian-walks-into-a-bear)|🔴|🤷‍♀️🤷‍♀️|
+|[**El futuro de Europa: Cómo decrecer para una reindustrialización urgente**, de Antonio Turiel](https://www.goodreads.com/book/show/218169167-el-futuro-de-europa)|🔴|🤷‍♀️🤷‍♀️|
 
 ---
 
@@ -117,10 +127,9 @@ Leyenda: **Estado** 🚦 (🔴 no empezado, 🟡 en progreso, 🟢 terminado).
 | Título, autor | 🚦 | Nota |
 |---------------|----|------|
 |[**Pensar en sistemas**, de Donella H. Meadows](https://www.goodreads.com/book/show/60861368-pensar-en-sistemas-un-manual-de-iniciaci-n)|🟢|4️⃣⭐|
-|[**Armas de destrucción matemática**, de Cathy O'Neil](https://www.goodreads.com/book/show/38338491-armas-de-destrucci-n-matem-tica)|🟢|4️⃣⭐|
 |[**Upgrade**, de M. Quintana y D. Alayón](https://www.goodreads.com/book/show/61211996)|🟢|4️⃣⭐|
 |[**Data science**, de John D. Kelleher y Brendan Tierney](https://www.goodreads.com/book/show/36722689-data-science)|🟢|3️⃣⭐|
-|[**The art of statistics: How to learn from data**, de David Spiegelhalter](https://www.goodreads.com/book/show/43722897-the-art-of-statistics)|🔴|🤷‍♀️🤷‍♀️|
+|[**The art of statistics: How to learn from data**, de David Spiegelhalter](https://www.goodreads.com/book/show/43722897-the-art-of-statistics)|🟡|🤷‍♀️🤷‍♀️|
 |[**El mundo sin fin**, de Jancovici](https://www.goodreads.com/book/show/63882950-el-mundo-sin-fin)|🔴|🤷‍♀️🤷‍♀️|
 |[**Cybersecurity**, de Duane C. Wilson](https://www.goodreads.com/book/show/59706156-cybersecurity)|🔴|🤷‍♀️🤷‍♀️|
 |[**Good strategy, bad strategy: The difference and why it matters**, de Richard P. Rumelt](https://www.goodreads.com/book/show/11721966-good-strategy-bad-strategy)|🔴|🤷‍♀️🤷‍♀️|
