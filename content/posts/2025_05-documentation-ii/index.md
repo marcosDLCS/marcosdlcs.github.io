@@ -1,6 +1,6 @@
 ---
 title: "No te olvides de la documentación (II)"
-description: ""
+description: "Continuamos desmitificando la documentación de software. En esta segunda parte exploramos qué significa realmente documentar, analizamos sus diversos tipos y cuestionamos los mitos que nos han llevado a rechazarla sistemáticamente."
 tags: [ "technology", "spanish" ]
 lastmod: 2025-05-11
 date: 2025-05-11
