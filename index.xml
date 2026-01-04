@@ -6,7 +6,58 @@
     <description>Recent content on mdlcs.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
-    <lastBuildDate>Sun, 11 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://mdlcs.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://mdlcs.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>No te olvides de la documentación (III)</title>
+      <link>https://mdlcs.dev/posts/2026-01-documentation-iii/</link>
+      <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://mdlcs.dev/posts/2026-01-documentation-iii/</guid>
+      <description>Finalizamos la saga de entradas con algunos consejos para documentar mejor y para que el hecho de compartir información no vuelva a ser un inconveniente en tu organización o en tu día a día.</description>
+      <content:encoded><![CDATA[<h2 id="-entonces-seguimos-documentando">🤷 Entonces, ¿seguimos documentando?</h2>
+<p>Si aún sigues aquí tras la lectura de las anteriores entradas, es probable que ya tengas claro que mi respuesta <strong>es un rotundo sí</strong>. Pero, como en casi todo lo relacionado con nuestra industria, hay un matiz importante: el escenario ha cambiado; un mundo nuevo para unos, aunque no lo suficiente para otros.</p>
+<p>En los últimos tiempos hemos vivido una explosión de herramientas que prometen hacernos la vida más fácil, pero la realidad es que <strong>la complejidad de nuestros sistemas también ha crecido a un ritmo igual de demencial</strong>. Microservicios, arquitecturas distribuidas, infraestructura como código, etc. La carga cognitiva necesaria para entender un proyecto moderno es mucho mayor que hace años.</p>
+<p>Estamos en un punto de inflexión. Ya no documentamos solo para cumplir un expediente o para que un <em>manager</em> se quede tranquilo. Documentamos para no perder la cordura; para que la siguiente gota que colmará el vaso no acabe por resquebrajarlo. En un mundo donde la IA puede generar código a una velocidad superior a la del ser humano, <strong>el valor diferencial vuelve a recaer en las interacciones humanas y en la capacidad de compartir el contexto</strong>, ese &ldquo;por qué&rdquo; que ninguna máquina puede explicar con precisión (todavía, 2026).</p>
+<figure>
+    <img loading="lazy" src="images/202601-future-tasks.jpg"
+         alt="Meme en el que aparece un luchador riendo afablemente y The Undertaker detrás con cara de pocos amigos. El texto reza &#39;Tú, celebrando una nueva feature entregada.&#39; y &#39;Las 427 tareas futuras que te harán olvidar lo que hiciste hace 15 días.&#39; junto a cada personaje respectivamente."/> 
+</figure>
+
+<h2 id="-he-nacido-para-esto">👨🏽‍🍼 He nacido para esto</h2>
+<p>No podemos ignorar al elefante en la habitación. Las herramientas de IA Generativa han llegado para quedarse y, si soy sincero, tienen una capacidad casi &ldquo;mágica&rdquo; (la IA no es magia, de eso hablaremos otro día) para resumir textos infumables, explicarnos conceptos poco claros o generarnos analogías divertidas para entender problemas complejos.</p>
+<p>Sin embargo, hay una trampa peligrosa en la comodidad y, si me lo permitís, en la pereza. <strong>Si delegamos todas las tareas de gestión del conocimiento y documentación a la IA, corremos el riesgo de perder el contexto de nuestro propio trabajo</strong>.</p>
+<p>Escribir documentación no es solo teclear; es un proceso de ordenación mental. Yo llevo toda la vida haciendo listas para todo, completando cuadernos y cuadernos con garabatos y esquemas a mano alzada para poder decantar esa información en mi cerebro. La edad no perdona.</p>
+<p>Cuando explicas cómo funciona un módulo, estás validando tu propio entendimiento sobre la solución (hola, Wittgenstein 👋). Si le pides a un LLM que documente tu código sin revisarlo, te conviertes en un cuidador de una caja negra que alguien ha construido por ti en base a quién sabe qué fuentes. Aprendamos a usar la herramienta para potenciar nuestra capacidad, no para atrofiar nuestra competencia técnica.</p>
+<h2 id="-estrategias-para-hoy-y-para-mañana">🧮 Estrategias para hoy (y para mañana)</h2>
+<p>Para cerrar esta serie, no quería irme sin dejar una lista de consejos prácticos. No son balas de plata, pero son las estrategias que me han funcionado para mantener la documentación viva:</p>
+<ul>
+<li>
+<p><strong>Usar la IA con cordura</strong>: Utilízala para eliminar la tarea tediosa, no el razonamiento. Generar una plantilla base o resumir un acta de reunión es fantástico. Pero, por favor, <strong>evita esas <em>Pull Requests</em> con descripciones kilométricas autogeneradas</strong> que nadie se lee. Aporta tu toque humano, explica las decisiones difíciles y deja que la IA se encargue del formato.</p>
+</li>
+<li>
+<p><strong>Maximizar la interacción humana</strong>: La documentación más importante a veces no está escrita, sino hablada. Fomenta el <em>pair</em> o <em>mob programming</em> y las sesiones de arquitectura. En estas ceremonias es donde se transmite la cultura del equipo y las sutilezas del negocio.</p>
+</li>
+<li>
+<p><strong>Documentación colaborativa</strong>: Hoy en día sobran herramientas (Notion, Obsidian, Confluence, etc.), pero falta cierto criterio y muchas reglas. Necesitas (necesitamos) una estrategia clara y una estructura común. <strong>¿Te imaginas un diccionario que no estuviese ordenado alfabéticamente?</strong> Pues así son muchas wikis corporativas. Define una taxonomía básica, un lugar para cada cosa, y sé implacable borrando o archivando lo que ya no sirve. La información obsoleta es ruido.</p>
+</li>
+<li>
+<p><strong>ADR (Architecture Decision Records)</strong>: Lo mencioné en el post anterior y aquí está. Documenta las decisiones arquitectónicas importantes (qué base de datos usamos, por qué elegimos esta estructura de directorios, por qué descartamos aquella librería, cuál es el flujo de información antiguo y cuál el nuevo) en ficheros simples junto al código o en tu wiki corporativa. Es la mejor manera de viajar en el tiempo y explicarle a tu &ldquo;yo&rdquo; del futuro por qué hiciste lo que hiciste sin necesidad de una máquina del tiempo. Y no solo eso, es una manera de vender tu propia experiencia y logros ante procesos de promoción interna.</p>
+</li>
+</ul>
+<h2 id="-en-resumen">➕ En resumen</h2>
+<p>Ha sido un viaje interesante a través de estas tres entradas. Empezamos reconociendo que <strong>documentar nos da pereza y tiene mala fama</strong>, continuamos desmontando los <strong>mitos del Manifiesto Ágil y el Clean Code</strong> que nos sirvieron de excusa para dejar de escribir buena documentación y terminamos hoy asumiendo que, en la era de la IA, <strong>el contexto humano es más valioso que nunca</strong>.</p>
+<p>La documentación no es un entregable final; es un acto de respeto hacia tus compañeros y hacia ti mismo. No busques la perfección, busca la utilidad. Y sobre todo, no dejes nunca que la herramienta sustituya a tu criterio como profesional.</p>
+<p>El día que no necesitemos la documentación probablemente sea el momento en el que dejaremos de ser imprescindibles en esta industria. En estos tres artículos en realidad he hablado de las propias limitaciones del ser humano y cómo esos límites conforman y conformarán nuestras actuales y futuras ideas. La documentación es un ancla de lo que sabemos y lo que supimos y siempre nos ayudará a saber hacia dónde se debe orientar nuestro siguiente paso.</p>
+<h3 id="-otras-entradas">🗂️ Otras entradas</h3>
+<ul>
+<li><a href="/posts/2024-04-documentation-i/">No te olvides de la documentación (I)</a></li>
+<li><a href="/posts/2025-05-documentation-ii/">No te olvides de la documentación (II)</a></li>
+</ul>
+<h2 id="-ia">🤖 ¿IA?</h2>
+<p>Este post <strong>ha utilizado herramientas de IA generativa para la corrección de estilo</strong> y de problemas gramaticales y/u ortográficos.</p>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>No te olvides de la documentación (II)</title>
       <link>https://mdlcs.dev/posts/2025-05-documentation-ii/</link>
@@ -54,9 +105,11 @@
 <p>Con el tiempo he llegado a la conclusión de que pocas <a href="https://agilemanifesto.org/history.html">reuniones en Utah</a> han tenido un <strong>impacto tan negativo en una industria mil millonaria</strong> como es la del desarrollo de <em>software</em>. Lo que comenzó con una serie de valores y principios necesarios, se ha transformado año tras año en una bola de nieve de convenciones totalmente malinterpretadas.</p>
 <p>Dos frases tienen la culpa:</p>
 <blockquote>
-<p>Working software over comprehensive documentation</p></blockquote>
+<p>Working software over comprehensive documentation</p>
+</blockquote>
 <blockquote>
-<p>The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.</p></blockquote>
+<p>The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.</p>
+</blockquote>
 <p>De manera aislada ambas afirmaciones tienen valor y su esencia es aplicable aún a día de hoy. El verdadero problema es que muchos equipos han interpretado estos principios como &ldquo;la documentación es mala&rdquo; o &ldquo;no documentemos nada, con hablar es suficiente&rdquo;.</p>
 <p>Lo que el manifiesto ágil realmente proponía era priorizar el <em>software</em> funcional sobre extensos documentos que nadie lee, y favorecer la comunicación directa como método principal de transmisión de información. Nunca sugirió eliminar la documentación por completo.</p>
 <p>La realidad es que necesitamos un equilibrio. La comunicación cara a cara es efímera, se pierde con el tiempo y depende de la memoria humana, que es como mínimo imperfecta. Una documentación concisa, actualizada y contextualizada complementa perfectamente la comunicación directa.</p>
@@ -94,10 +147,13 @@
 <p>Los mitos que nos han llevado a despreciar la documentación son precisamente eso, mitos. El manifiesto ágil no prohíbe documentar, el código limpio no elimina la necesidad de explicar el &ldquo;por qué&rdquo;, y la documentación no es algo que se hace al final ni permanece estática.</p>
 <p>Un enfoque equilibrado hacia la documentación empieza por reconocer su valor como parte fundamental del proceso de desarrollo, no como un complemento opcional. Al igual que cuidamos nuestro código, debemos cuidar nuestra documentación: mantenerla concisa, actualizada y útil.</p>
 <p>En la próxima entrada, exploraré algunas estrategias prácticas para integrar la documentación en el flujo de trabajo diario sin que se convierta en una carga. ¿Te apuntas?</p>
-<h3 id="otras-entradas">Otras entradas</h3>
+<h3 id="-otras-entradas">🗂️ Otras entradas</h3>
 <ul>
 <li><a href="https://mdlcs.dev/posts/2024-04-documentation-i/">No te olvides de la documentación (I)</a></li>
+<li><a href="https://mdlcs.dev/posts/2026-01-documentation-iii/">No te olvides de la documentación (III)</a></li>
 </ul>
+<h2 id="-ia">🤖 ¿IA?</h2>
+<p>Este post se ha realizado <strong>sin ningún tipo de ayuda</strong> de herramientas de IA generativa.</p>
 ]]></content:encoded>
     </item>
     
@@ -147,10 +203,13 @@
 <p>Nuestra percepción sobre la documentación en el desarrollo de <em>software</em> está algo distorsionada.</p>
 <p>Aunque muchos la consideran tediosa, en realidad es esencial en momentos clave, como en la integración de nuevos empleados o durante incidentes críticos. Es curioso cómo, <strong>aunque reconocemos su importancia, pocos están dispuestos a admitirlo abiertamente</strong>.</p>
 <p>Y tú, ¿de qué equipo eres?</p>
-<h3 id="otras-entradas">Otras entradas</h3>
+<h3 id="-otras-entradas">🗂️ Otras entradas</h3>
 <ul>
 <li><a href="https://mdlcs.dev/posts/2025-05-documentation-ii/">No te olvides de la documentación (II)</a></li>
+<li><a href="https://mdlcs.dev/posts/2026-01-documentation-iii/">No te olvides de la documentación (III)</a></li>
 </ul>
+<h2 id="-ia">🤖 ¿IA?</h2>
+<p>Este post se ha realizado <strong>sin ningún tipo de ayuda</strong> de herramientas de IA generativa.</p>
 ]]></content:encoded>
     </item>
     
@@ -210,7 +269,8 @@
 <h2 id="-entonces-qué-es-la-deuda-técnica">🧐 Entonces, ¿qué es la deuda técnica?</h2>
 <p>Si tuviese que dar una definición concisa para mi visión del concepto de deuda técnica, sería la que sigue:</p>
 <blockquote>
-<p>Decisión de desarrollo u organización que se toma, de manera <strong>deliberada</strong>, como un <strong>atajo</strong> o solución de contingencia a un <strong>problema concreto y acotado</strong> y con la que <strong>adquirimos un compromiso</strong> de resolución real y <strong>fijado en el tiempo</strong>.</p></blockquote>
+<p>Decisión de desarrollo u organización que se toma, de manera <strong>deliberada</strong>, como un <strong>atajo</strong> o solución de contingencia a un <strong>problema concreto y acotado</strong> y con la que <strong>adquirimos un compromiso</strong> de resolución real y <strong>fijado en el tiempo</strong>.</p>
+</blockquote>
 <p>Ahora vayamos punto por punto repasando cada una de las características:</p>
 <ul>
 <li><strong>Voluntaria o deliberada</strong>: Bajo mi prisma, no existe la deuda técnica externa. Para que la podamos considerar como tal debe provenir de nosotros mismos en un ejercicio de aceptación voluntaria. Por el mismo motivo, no puedo considerar deuda técnica a algo impuesto por un equipo o departamento externo ajeno a responsabilidades técnicas.</li>
@@ -240,8 +300,11 @@
 <p>Considero que los errores, las actualizaciones de dependencias, las mejoras pendientes, el código heredado o los cambios en acuerdos de equipo no son deuda técnica. Y propongo una definición más precisa: <strong>una decisión voluntaria que implica un compromiso fijado en el tiempo para resolver un problema específico</strong>. Catalogar correctamente los conceptos es crucial para encontrar soluciones adecuadas y evitar malentendidos en el desarrollo de <em>software</em>.</p>
 <p>Por último, y ya que al tratar sobre estos conceptos siempre se usan símiles económicos, me gustaría acabar con una cita de <strong>David Graeber</strong> de su libro <em>En deuda</em>, que al hablar sobre su cancelación dice:</p>
 <blockquote>
-<p>&hellip; recordarnos a nosotros mismos que el dinero no es inefable, que pagar las deudas no es la esencia de la moral, que todo esto son cosas que hemos decidido hacer de determinada manera los humanos y que, si algo significa la democracia, es la capacidad de ponernos de acuerdo entre todos para hacer las cosas de otra manera.</p></blockquote>
+<p>&hellip; recordarnos a nosotros mismos que el dinero no es inefable, que pagar las deudas no es la esencia de la moral, que todo esto son cosas que hemos decidido hacer de determinada manera los humanos y que, si algo significa la democracia, es la capacidad de ponernos de acuerdo entre todos para hacer las cosas de otra manera.</p>
+</blockquote>
 <p>Espero que te haya gustado. Si es así, estamos en deuda.</p>
+<h2 id="-ia">🤖 ¿IA?</h2>
+<p>Este post se ha realizado <strong>sin ningún tipo de ayuda</strong> de herramientas de IA generativa.</p>
 ]]></content:encoded>
     </item>
     
@@ -260,7 +323,8 @@
 <li><strong>Salario</strong>: ¿Cúal es el rango salarial de la oferta? ¿Hay bonificaciones variables?</li>
 <li><strong>Vacaciones</strong>: ¿Cuántos días de vacaciones ofrece la empresa? ¿Hay días especiales de vacaciones: cumpleaños, nochebuena y/o nochevieja, libre disposición, conciliación?</li>
 <li><strong>Beneficios</strong>: ¿Formación, seguro médico, ticket restaurante, clases de inglés, presupuesto para trabajo remoto, asistencia a eventos IT, otros?</li>
-</ul></blockquote>
+</ul>
+</blockquote>
 <p>Mención especial a las ofertas con rangos salariales amplísimos o con valores indeterminados del tipo &ldquo;según valía&rdquo;. No recomiendo aceptar una respuesta de este tipo ya que se podría considerar una falta de respeto a vuestro interés por la oferta o a vuestro tiempo libre. Y por experiencia, no seáis los primeros en comunicar expectativas salariales en el caso de no contar con esa información.</p>
 <figure>
     <img loading="lazy" src="images/202401-meme-interviews.jpg"
@@ -280,7 +344,8 @@
 <li><strong>Retos empresa</strong>: ¿Cuál es el reto actual más importante al que se enfrenta el equipo / departamento / empresa?</li>
 <li><strong>Eventos</strong>: ¿Hay reuniones recurrentes del tipo <em>&lsquo;company meeting&rsquo;</em> o <em>&rsquo;team building&rsquo;</em>? ¿Cómo suelen ser? ¿Con qué periodicidad? ¿Se pueden rechazar?</li>
 <li><strong>Viajes</strong>: ¿Se hace cargo la empresa de los gastos y la reserva de transporte/alojamiento cuando hay que viajar?</li>
-</ul></blockquote>
+</ul>
+</blockquote>
 <p>Con este bloque de peguntas pretendo conocer cómo de engrasada está la maquinaria burocrática. Cuesta aceptar a veces que determinados problemas de productividad nacen de procesos extremadamente tediosos o poco afinados, exceso de reuniones o <em>micro-management</em>. A este respecto la <a href="https://es.wikipedia.org/wiki/Ley_de_Conway">Ley de Conway</a> sigue plenamente vigente.</p>
 <figure>
     <img loading="lazy" src="images/202401-meme-meetings.jpg"
@@ -302,7 +367,8 @@
 <li><strong>Outboarding</strong>: ¿Tenéis proceso de <em>outboarding</em>? ¿Cómo gestionáis la marcha de empleados?</li>
 <li><strong>Documentación</strong>: ¿Cuál es vuestra estrategia de documentación? ¿Cómo os aseguráis de que el conocimiento se comparte y llega a diferentes áreas de la empresa? ¿Cuidáis vuestro lenguaje ubicuo? ¿Cómo lucháis contra los silos de información?</li>
 <li><strong>Cultura de equipo</strong>: Estrategia de <em>testing</em> / <em>branching model</em>, tiempo de formación o mejora continua, <em>feedback</em> interno, plan de carrera.</li>
-</ul></blockquote>
+</ul>
+</blockquote>
 <p>Por experiencia, muchas de estas preguntas descolocan y derivan en situaciones tensas e incluso desagradables durante las entrevistas. Mi objetivo es que manejéis ejemplos sobre qué preguntar cuando tengáis dudas fundadas en algún aspecto clave.</p>
 <p>En mi humilde opinión, habiendo estado en ambos lados de un proceso de contratación, la formulación de preguntas denota interés por el puesto y nunca debería ser considerada un ataque.</p>
 <figure>
@@ -314,6 +380,8 @@
 <p>Una entrevista debería ser algo así como <strong>una conversación amistosa entre dos partes interesadas en compartir un futuro laboral</strong>. En dicho proceso es fundamental hacer preguntas para conocer detalles sobre el puesto que te están ofertando.</p>
 <p>Mi recomendación es que te prepares intentando <strong>conocer información básica de la empresa</strong> para la que te postulas y que seas <strong>honesto y cercano durante las entrevistas</strong>. No te olvides tampoco de <strong>tomar notas</strong> sobre todo lo que te compartan en las diferentes fases de un proceso de selección.</p>
 <p>Y cuando llege ese momento de <em>&quot;¿Tienes alguna pregunta para nosotros?&quot;</em>, ya sabes lo que hacer. Pregunta.</p>
+<h2 id="-ia">🤖 ¿IA?</h2>
+<p>Este post se ha realizado <strong>sin ningún tipo de ayuda</strong> de herramientas de IA generativa.</p>
 ]]></content:encoded>
     </item>
     

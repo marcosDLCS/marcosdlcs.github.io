@@ -63,7 +63,8 @@
 <h2 id="-entonces-qué-es-la-deuda-técnica">🧐 Entonces, ¿qué es la deuda técnica?</h2>
 <p>Si tuviese que dar una definición concisa para mi visión del concepto de deuda técnica, sería la que sigue:</p>
 <blockquote>
-<p>Decisión de desarrollo u organización que se toma, de manera <strong>deliberada</strong>, como un <strong>atajo</strong> o solución de contingencia a un <strong>problema concreto y acotado</strong> y con la que <strong>adquirimos un compromiso</strong> de resolución real y <strong>fijado en el tiempo</strong>.</p></blockquote>
+<p>Decisión de desarrollo u organización que se toma, de manera <strong>deliberada</strong>, como un <strong>atajo</strong> o solución de contingencia a un <strong>problema concreto y acotado</strong> y con la que <strong>adquirimos un compromiso</strong> de resolución real y <strong>fijado en el tiempo</strong>.</p>
+</blockquote>
 <p>Ahora vayamos punto por punto repasando cada una de las características:</p>
 <ul>
 <li><strong>Voluntaria o deliberada</strong>: Bajo mi prisma, no existe la deuda técnica externa. Para que la podamos considerar como tal debe provenir de nosotros mismos en un ejercicio de aceptación voluntaria. Por el mismo motivo, no puedo considerar deuda técnica a algo impuesto por un equipo o departamento externo ajeno a responsabilidades técnicas.</li>
@@ -93,8 +94,11 @@
 <p>Considero que los errores, las actualizaciones de dependencias, las mejoras pendientes, el código heredado o los cambios en acuerdos de equipo no son deuda técnica. Y propongo una definición más precisa: <strong>una decisión voluntaria que implica un compromiso fijado en el tiempo para resolver un problema específico</strong>. Catalogar correctamente los conceptos es crucial para encontrar soluciones adecuadas y evitar malentendidos en el desarrollo de <em>software</em>.</p>
 <p>Por último, y ya que al tratar sobre estos conceptos siempre se usan símiles económicos, me gustaría acabar con una cita de <strong>David Graeber</strong> de su libro <em>En deuda</em>, que al hablar sobre su cancelación dice:</p>
 <blockquote>
-<p>&hellip; recordarnos a nosotros mismos que el dinero no es inefable, que pagar las deudas no es la esencia de la moral, que todo esto son cosas que hemos decidido hacer de determinada manera los humanos y que, si algo significa la democracia, es la capacidad de ponernos de acuerdo entre todos para hacer las cosas de otra manera.</p></blockquote>
+<p>&hellip; recordarnos a nosotros mismos que el dinero no es inefable, que pagar las deudas no es la esencia de la moral, que todo esto son cosas que hemos decidido hacer de determinada manera los humanos y que, si algo significa la democracia, es la capacidad de ponernos de acuerdo entre todos para hacer las cosas de otra manera.</p>
+</blockquote>
 <p>Espero que te haya gustado. Si es así, estamos en deuda.</p>
+<h2 id="-ia">🤖 ¿IA?</h2>
+<p>Este post se ha realizado <strong>sin ningún tipo de ayuda</strong> de herramientas de IA generativa.</p>
 ]]></content:encoded>
     </item>
     
