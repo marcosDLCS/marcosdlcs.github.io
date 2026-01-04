@@ -2,7 +2,7 @@
 title: "El problema de la 'deuda técnica'"
 description: "Tras unos cuantos años en el sector puedo decir que uno de los conceptos que siempre te acompaña es el de la deuda técnica. La pregunta que me hago siempre es: ¿sabemos realmente lo que ES y cómo identificarla?"
 tags: [ "technology", "management", "spanish" ]
-lastmod: 2025-05-11
+lastmod: 2026-01-04
 date: 2024-01-31
 categories:
   - "technology"
@@ -121,3 +121,7 @@ Por último, y ya que al tratar sobre estos conceptos siempre se usan símiles e
 > ... recordarnos a nosotros mismos que el dinero no es inefable, que pagar las deudas no es la esencia de la moral, que todo esto son cosas que hemos decidido hacer de determinada manera los humanos y que, si algo significa la democracia, es la capacidad de ponernos de acuerdo entre todos para hacer las cosas de otra manera.
 
 Espero que te haya gustado. Si es así, estamos en deuda.
+
+## 🤖 ¿IA?
+
+Este post se ha realizado **sin ningún tipo de ayuda** de herramientas de IA generativa.

@@ -2,7 +2,7 @@
 title: "No te olvides de la documentación (I)"
 description: "Probablemente la palabra 'documentación' te cause escalofríos y te recuerde momentos tediosos que se interpusieron en tu camino a la felicidad. Esta serie de entradas son una oda a la buena documentación y una excusa para descubrir por qué la detestamos."
 tags: [ "technology", "spanish" ]
-lastmod: 2025-05-11
+lastmod: 2026-01-04
 date: 2024-04-27
 categories:
   - "technology"
@@ -56,6 +56,12 @@ Aunque muchos la consideran tediosa, en realidad es esencial en momentos clave, 
 
 Y tú, ¿de qué equipo eres?
 
-### Otras entradas
+### 🗂️ Otras entradas
 
 - [No te olvides de la documentación (II)](https://mdlcs.dev/posts/2025-05-documentation-ii/)
+- [No te olvides de la documentación (III)](https://mdlcs.dev/posts/2026-01-documentation-iii/)
+
+
+## 🤖 ¿IA?
+
+Este post se ha realizado **sin ningún tipo de ayuda** de herramientas de IA generativa.

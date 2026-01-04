@@ -2,7 +2,7 @@
 title: "¿Tienes alguna pregunta para nosotros?"
 description: "En todo proceso de entrevistas siempre llega el momento crucial en el que puedes (debes) realizar preguntas para conocer mejor a tu futuro empleador. Esta es la lista que siempre tengo a mano para inspirarme a la hora de preguntar y así descubrir los puntos fuertes y débiles de la oferta a la que me presento."
 tags: [ "job-seeking", "interviews", "spanish" ]
-lastmod: 2025-05-11
+lastmod: 2026-01-04
 date: 2024-01-05
 categories:
   - "job-seeking"
@@ -73,3 +73,7 @@ Una entrevista debería ser algo así como **una conversación amistosa entre do
 Mi recomendación es que te prepares intentando **conocer información básica de la empresa** para la que te postulas y que seas **honesto y cercano durante las entrevistas**. No te olvides tampoco de **tomar notas** sobre todo lo que te compartan en las diferentes fases de un proceso de selección.
 
 Y cuando llege ese momento de _"¿Tienes alguna pregunta para nosotros?"_, ya sabes lo que hacer. Pregunta.
+
+## 🤖 ¿IA?
+
+Este post se ha realizado **sin ningún tipo de ayuda** de herramientas de IA generativa.

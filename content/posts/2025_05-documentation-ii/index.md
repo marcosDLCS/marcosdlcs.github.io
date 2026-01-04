@@ -2,7 +2,7 @@
 title: "No te olvides de la documentación (II)"
 description: "Continuamos desmitificando la documentación de software. En esta segunda parte exploramos qué significa realmente documentar, analizamos sus diversos tipos y cuestionamos los mitos que nos han llevado a rechazarla sistemáticamente."
 tags: [ "technology", "spanish" ]
-lastmod: 2025-05-11
+lastmod: 2026-01-04
 date: 2025-05-11
 categories:
   - "technology"
@@ -106,6 +106,11 @@ Un enfoque equilibrado hacia la documentación empieza por reconocer su valor co
 
 En la próxima entrada, exploraré algunas estrategias prácticas para integrar la documentación en el flujo de trabajo diario sin que se convierta en una carga. ¿Te apuntas?
 
-### Otras entradas
+### 🗂️ Otras entradas
 
 - [No te olvides de la documentación (I)](https://mdlcs.dev/posts/2024-04-documentation-i/)
+- [No te olvides de la documentación (III)](https://mdlcs.dev/posts/2026-01-documentation-iii/)
+
+## 🤖 ¿IA?
+
+Este post se ha realizado **sin ningún tipo de ayuda** de herramientas de IA generativa.
