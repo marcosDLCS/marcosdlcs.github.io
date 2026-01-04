@@ -48,7 +48,9 @@ Ha sido un viaje interesante a través de estas tres entradas. Empezamos reconoc
 
 La documentación no es un entregable final; es un acto de respeto hacia tus compañeros y hacia ti mismo. No busques la perfección, busca la utilidad. Y sobre todo, no dejes nunca que la herramienta sustituya a tu criterio como profesional.
 
-El día que no necesitemos la documentación probablemente sea el momento en el que dejaremos de ser imprescindibles en esta industria. En estos tres artículos en realidad he hablado de las propias limitaciones del ser humano y cómo esos límites conforman y conformarán nuestras actuales y futuras ideas. La documentación es un ancla de lo que sabemos y lo que supimos y siempre nos ayudará a saber hacia dónde se debe orientar nuestro siguiente paso.
+El día que no necesitemos la documentación probablemente sea el momento en el que dejaremos de ser imprescindibles en esta industria. 
+
+En estos tres artículos en realidad he hablado de las propias limitaciones del ser humano y cómo esos límites conforman y conformarán nuestras actuales y futuras ideas. La documentación es un ancla de lo que sabemos y lo que supimos y siempre nos ayudará a saber hacia dónde se debe orientar nuestro siguiente paso.
 
 ### 🗂️ Otras entradas
 
@@ -57,4 +59,4 @@ El día que no necesitemos la documentación probablemente sea el momento en el 
 
 ## 🤖 ¿IA?
 
-Este post **ha utilizado herramientas de IA generativa para la corrección de estilo** y de problemas gramaticales y/u ortográficos.
+En este post se **han utilizado herramientas de IA generativa para la corrección de estilo** y de problemas gramaticales y/u ortográficos.
