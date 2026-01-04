@@ -18,7 +18,7 @@ En los últimos tiempos hemos vivido una explosión de herramientas que prometen
 
 Estamos en un punto de inflexión. Ya no documentamos solo para cumplir un expediente o para que un *manager* se quede tranquilo. Documentamos para no perder la cordura; para que la siguiente gota que colmará el vaso no acabe por resquebrajarlo. En un mundo donde la IA puede generar código a una velocidad superior a la del ser humano, **el valor diferencial vuelve a recaer en las interacciones humanas y en la capacidad de compartir el contexto**, ese "por qué" que ninguna máquina puede explicar con precisión (todavía, 2026).
 
-{{< figure src="images/202601-future-tasks.jpg" alt="Meme en el que aparece un luchador riendo afablemente y The Undertaker detrás con cara de pocos amigos. El texto reza 'Tú, celebrando una nueva "feature" entregada.' y 'Las 427 tareas futuras que te harán olvidar lo que hiciste hace 15 días.' junto a cada personaje respectivamente." >}}
+{{< figure src="images/202601-future-tasks.jpg" alt="Meme en el que aparece un luchador riendo afablemente y The Undertaker detrás con cara de pocos amigos. El texto reza 'Tú, celebrando una nueva feature entregada.' y 'Las 427 tareas futuras que te harán olvidar lo que hiciste hace 15 días.' junto a cada personaje respectivamente." >}}
 
 ## 👨🏽‍🍼 He nacido para esto
 
